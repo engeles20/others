@@ -1,19 +1,12 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<channel id="OfficialTaco.us"> 
-<display-name>OfficialTaco</display-name> 
-</channel> 
 <channel id="JoblessGarrett.us"> 
 <display-name>JoblessGarrett</display-name> 
 </channel> 
 <programme start="20211003000000 +0000" stop="20211030010000 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
-</programme> 
-<programme start="20211003000000 +0000" stop="20211030010000 +0000" channel="OfficialTaco.us"> 
-<title lang="en"> New World Grinding! </title> 
-<desc lang="en"> Facebook - OfficialTaco </desc> 
 </programme> 
 <programme start="20211003000000 +0000" stop="20211030010000 +0000" channel="JoblessGarrett.us"> 
 <title lang="en"> Worlds Hardest GTA 5 Mod... Real Life Simulator </title> 
