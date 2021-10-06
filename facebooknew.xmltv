@@ -4,6 +4,9 @@
 <channel id="dasmehdi.us"> 
 <display-name>dasmehdi</display-name> 
 </channel> 
+<channel id="vaderlive.us"> 
+<display-name>vaderlive</display-name> 
+</channel> 
 <programme start="20211003000000 +0000" stop="20211030010000 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
@@ -11,4 +14,8 @@
 <programme start="20211003000000 +0000" stop="20211030010000 +0000" channel="dasmehdi.us"> 
 <title lang="en"> Battlefield Open Beta on Ultra Settings </title> 
 <desc lang="en"> Facebook - dasmehdi </desc> 
+</programme> 
+<programme start="20211003000000 +0000" stop="20211030010000 +0000" channel="vaderlive.us"> 
+<title lang="en"> GTA 5 RP - NoPixel </title> 
+<desc lang="en"> Facebook - vaderlive </desc> 
 </programme> 
