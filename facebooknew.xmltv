@@ -4,6 +4,9 @@
 <channel id="RatedEpiczLive.us"> 
 <display-name>RatedEpiczLive</display-name> 
 </channel> 
+<channel id="wtfmoses.us"> 
+<display-name>wtfmoses</display-name> 
+</channel> 
 <programme start="20211003000000 +0000" stop="20211030010000 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
@@ -11,4 +14,8 @@
 <programme start="20211003000000 +0000" stop="20211030010000 +0000" channel="RatedEpiczLive.us"> 
 <title lang="en"> Randy Bullet - Chang Gang - GTA V RP - NoPixel </title> 
 <desc lang="en"> Facebook - RatedEpiczLive </desc> 
+</programme> 
+<programme start="20211003000000 +0000" stop="20211030010000 +0000" channel="wtfmoses.us"> 
+<title lang="en"> DEREK MCNULTY - GTA RP - @wtfmoses </title> 
+<desc lang="en"> Facebook - wtfmoses </desc> 
 </programme> 
