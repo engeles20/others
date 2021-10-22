@@ -1,20 +1,23 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
+<channel id="ladyhope.us"> 
+<display-name>ladyhope</display-name> 
+</channel> 
+<channel id="rerolldota.us"> 
+<display-name>rerolldota</display-name> 
+</channel> 
+<channel id="aus24.us"> 
+<display-name>aus24</display-name> 
+</channel> 
+<channel id="tinyspark.us"> 
+<display-name>tinyspark</display-name> 
+</channel> 
 <channel id="hotted89.us"> 
 <display-name>hotted89</display-name> 
 </channel> 
 <channel id="kinamazing.us"> 
 <display-name>kinamazing</display-name> 
-</channel> 
-<channel id="aus24.us"> 
-<display-name>aus24</display-name> 
-</channel> 
-<channel id="rerolldota.us"> 
-<display-name>rerolldota</display-name> 
-</channel> 
-<channel id="tinyspark.us"> 
-<display-name>tinyspark</display-name> 
 </channel> 
 <channel id="luka_aus.us"> 
 <display-name>luka_aus</display-name> 
@@ -31,11 +34,14 @@
 <channel id="nidas.us"> 
 <display-name>nidas</display-name> 
 </channel> 
-<channel id="jayaitch.us"> 
-<display-name>jayaitch</display-name> 
-</channel> 
 <channel id="crystalst.us"> 
 <display-name>crystalst</display-name> 
+</channel> 
+<channel id="dorken.us"> 
+<display-name>dorken</display-name> 
+</channel> 
+<channel id="jayaitch.us"> 
+<display-name>jayaitch</display-name> 
 </channel> 
 <channel id="jack.us"> 
 <display-name>jack</display-name> 
@@ -55,124 +61,145 @@
 <channel id="retrogaijin.us"> 
 <display-name>retrogaijin</display-name> 
 </channel> 
+<channel id="noelusionz.us"> 
+<display-name>noelusionz</display-name> 
+</channel> 
 <channel id="aintitadam.us"> 
 <display-name>aintitadam</display-name> 
 </channel> 
-<programme start="20211022000000 +0000" stop="20211025065700 +0000" channel="clearepg.us"> 
+<programme start="20211022000000 +0000" stop="20211025072700 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
 </programme> 
-<programme start="20211022064107 +0000" stop="20211025014107 +0000" channel="hotted89.us"> 
-<title lang="en"> Lieutenant GTR Matthew Espinoz - Nopixel 3.0 WL </title> 
-<desc lang="en"> Started: 1:41AM 
+<programme start="20211022120242 +0000" stop="20211025070242 +0000" channel="ladyhope.us"> 
+<title lang="en"> NoPixel WL - 413 Senior Officer Lily Pond, LSPD - Detective - Interceptor - Air 1 </title> 
+<desc lang="en"> Started: 7:02AM 
 Playing: Grand Theft Auto V 
-Viewers: 1005 </desc> 
-</programme> 
-<programme start="20211022095859 +0000" stop="20211025045859 +0000" channel="kinamazing.us"> 
-<title lang="en"> 3 YEARS PARTNERVERSARY SUBATHON - GTA RP - NOPIXEL </title> 
-<desc lang="en"> Started: 4:58AM 
-Playing: Grand Theft Auto V 
-Viewers: 615 </desc> 
-</programme> 
-<programme start="20211022073143 +0000" stop="20211025023143 +0000" channel="aus24.us"> 
-<title lang="en"> Davenport - LSPD - NoPixel WL - #Harmony </title> 
-<desc lang="en"> Started: 2:31AM 
-Playing: Grand Theft Auto V 
-Viewers: 126 </desc> 
+Viewers: 177 </desc> 
 </programme> 
 <programme start="20211022042934 +0000" stop="20211024232934 +0000" channel="rerolldota.us"> 
 <title lang="en"> Np 3.0 WL - 'The Enforcer' Dpt.Nova - Positive Vibes Subathon! </title> 
 <desc lang="en"> Started: 11:29PM 
 Playing: Grand Theft Auto V 
-Viewers: 165 </desc> 
+Viewers: 173 </desc> 
+</programme> 
+<programme start="20211022073143 +0000" stop="20211025023143 +0000" channel="aus24.us"> 
+<title lang="en"> Davenport - LSPD - NoPixel WL - #Harmony </title> 
+<desc lang="en"> Started: 2:31AM 
+Playing: Grand Theft Auto V 
+Viewers: 81 </desc> 
 </programme> 
 <programme start="20211022070256 +0000" stop="20211025020256 +0000" channel="tinyspark.us"> 
 <title lang="en"> 318 Sgt Daisy Dukakis - Nopixel - !artesian </title> 
 <desc lang="en"> Started: 2:02AM 
 Playing: Grand Theft Auto V 
-Viewers: 252 </desc> 
+Viewers: 253 </desc> 
+</programme> 
+<programme start="20211022064107 +0000" stop="20211025014107 +0000" channel="hotted89.us"> 
+<title lang="en"> Lieutenant GTR Matthew Espinoz - Nopixel 3.0 WL </title> 
+<desc lang="en"> Started: 1:41AM 
+Playing: Grand Theft Auto V 
+Viewers: 1027 </desc> 
+</programme> 
+<programme start="20211022095859 +0000" stop="20211025045859 +0000" channel="kinamazing.us"> 
+<title lang="en"> 3 YEARS PARTNERVERSARY SUBATHON - GTA RP - NOPIXEL </title> 
+<desc lang="en"> Started: 4:58AM 
+Playing: Grand Theft Auto V 
+Viewers: 618 </desc> 
 </programme> 
 <programme start="20211022090043 +0000" stop="20211025040043 +0000" channel="luka_aus.us"> 
 <title lang="en"> Nopixel - Snr Officer Kozlov - K9 Unit - HVTU - Resting Bitch Voice </title> 
 <desc lang="en"> Started: 4:00AM 
 Playing: Grand Theft Auto V 
-Viewers: 92 </desc> 
+Viewers: 85 </desc> 
 </programme> 
 <programme start="20211022063202 +0000" stop="20211025013202 +0000" channel="benni.us"> 
 <title lang="en"> Santi - Vagos Veterano - Vagos weed op, and Veterano Southside shit - !merch !artesian !playlist </title> 
 <desc lang="en"> Started: 1:32AM 
 Playing: Grand Theft Auto V 
-Viewers: 62 </desc> 
+Viewers: 60 </desc> 
 </programme> 
 <programme start="20211022092409 +0000" stop="20211025042409 +0000" channel="silent.us"> 
 <title lang="en"> NoPixel - CORP GARCIA! GAME NIGHT TONIGHT - SileNt Live on !youtube </title> 
 <desc lang="en"> Started: 4:24AM 
 Playing: Grand Theft Auto V 
-Viewers: 3808 </desc> 
+Viewers: 3510 </desc> 
 </programme> 
 <programme start="20211022090721 +0000" stop="20211025040721 +0000" channel="justjamie.us"> 
 <title lang="en"> 621 Cadet George Lawson - Final Eval Day!I NoPixel I !website </title> 
 <desc lang="en"> Started: 4:07AM 
 Playing: Grand Theft Auto V 
-Viewers: 312 </desc> 
+Viewers: 298 </desc> 
 </programme> 
 <programme start="20211022110846 +0000" stop="20211025060846 +0000" channel="nidas.us"> 
 <title lang="en"> Leslie Lingberg - NoPixel 3.0 WL - Road to 4K !socials </title> 
 <desc lang="en"> Started: 6:08AM 
 Playing: Grand Theft Auto V 
-Viewers: 747 </desc> 
-</programme> 
-<programme start="20211022061958 +0000" stop="20211025011958 +0000" channel="jayaitch.us"> 
-<title lang="en"> Lil Cap - NoPixel WL - !Soundcloud !social !discord !spotify </title> 
-<desc lang="en"> Started: 1:19AM 
-Playing: Grand Theft Auto V 
-Viewers: 144 </desc> 
+Viewers: 1317 </desc> 
 </programme> 
 <programme start="20211022000031 +0000" stop="20211024190031 +0000" channel="crystalst.us"> 
 <title lang="en"> Crystal Clear - NoPixel - FTO Nova </title> 
 <desc lang="en"> Started: 7:00PM 
 Playing: Grand Theft Auto V 
-Viewers: 2488 </desc> 
+Viewers: 2461 </desc> 
+</programme> 
+<programme start="20211022120159 +0000" stop="20211025070159 +0000" channel="dorken.us"> 
+<title lang="en"> SPOOKY FRIDAY 👻 Bring your snacks and blankets ♡ !spooky </title> 
+<desc lang="en"> Started: 7:01AM 
+Playing: The Evil Within 
+Viewers: 29 </desc> 
+</programme> 
+<programme start="20211022061958 +0000" stop="20211025011958 +0000" channel="jayaitch.us"> 
+<title lang="en"> Lil Cap - NoPixel WL - !Soundcloud !social !discord !spotify </title> 
+<desc lang="en"> Started: 1:19AM 
+Playing: Grand Theft Auto V 
+Viewers: 116 </desc> 
 </programme> 
 <programme start="20211022030111 +0000" stop="20211024220111 +0000" channel="jack.us"> 
 <title lang="en"> Jack "Cookie" Cortair - NOPIXEL WL - CHILLING COOL BUSTA - !socials </title> 
 <desc lang="en"> Started: 10:01PM 
 Playing: Grand Theft Auto V 
-Viewers: 847 </desc> 
+Viewers: 1027 </desc> 
 </programme> 
 <programme start="20211022100635 +0000" stop="20211025050635 +0000" channel="iddqd.us"> 
 <title lang="en"> Jesse BBMC - Super chill stream, but we got bangers. !schedule </title> 
 <desc lang="en"> Started: 5:06AM 
 Playing: Grand Theft Auto V 
-Viewers: 583 </desc> 
+Viewers: 663 </desc> 
 </programme> 
 <programme start="20211022061400 +0000" stop="20211025011400 +0000" channel="77_nights.us"> 
 <title lang="en"> 🇸🇻 Damian De Santos - Vagos Prospect, Vida Barrio - NoPixel WL 🇸🇻 </title> 
 <desc lang="en"> Started: 1:14AM 
 Playing: Grand Theft Auto V 
-Viewers: 33 </desc> 
+Viewers: 35 </desc> 
 </programme> 
 <programme start="20211022114225 +0000" stop="20211025064225 +0000" channel="myladyballs.us"> 
 <title lang="en"> *TESTING* NoPixel RP WL - Divorce arc? - Vero Garcia (Guerrero) - ESV Veterana - !10 !twitter !discord </title> 
 <desc lang="en"> Started: 6:42AM 
 Playing: Grand Theft Auto V 
-Viewers: 16 </desc> 
+Viewers: 25 </desc> 
 </programme> 
 <programme start="20211022111316 +0000" stop="20211025061316 +0000" channel="kongfue.us"> 
 <title lang="en"> KJ - Vagos - NoPixel WL - TGIF - Big Chil </title> 
 <desc lang="en"> Started: 6:13AM 
 Playing: Grand Theft Auto V 
-Viewers: 581 </desc> 
+Viewers: 414 </desc> 
 </programme> 
 <programme start="20211022091125 +0000" stop="20211025041125 +0000" channel="retrogaijin.us"> 
-<title lang="en"> Tokyo, IRL - Shibuya FRIDAY Man who owns only 1 pair of pants needs to prep for Japan Winter - !discord !social </title> 
+<title lang="en"> Tokyo, IRL - Shibuya FRIDAY - Return of the Strong and Walk! 🍻 - !discord !social </title> 
 <desc lang="en"> Started: 4:11AM 
 Playing: Just Chatting 
-Viewers: 1517 </desc> 
+Viewers: 1501 </desc> 
+</programme> 
+<programme start="20211022115919 +0000" stop="20211025065919 +0000" channel="noelusionz.us"> 
+<title lang="en"> 🔴!SUBATHON - Playing Multiple Characters - Bobby Beats - GSF - DMCA Free !music - Nopixel WL </title> 
+<desc lang="en"> Started: 6:59AM 
+Playing: Grand Theft Auto V 
+Viewers: 43 </desc> 
 </programme> 
 <programme start="20211022113801 +0000" stop="20211025063801 +0000" channel="aintitadam.us"> 
 <title lang="en"> Scruffy Hopsi'Doodle - Nopixel 3.0 WL </title> 
 <desc lang="en"> Started: 6:38AM 
 Playing: Grand Theft Auto V 
-Viewers: 18 </desc> 
+Viewers: 20 </desc> 
 </programme> 
