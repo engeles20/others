@@ -1,20 +1,23 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<channel id="hirona.us"> 
-<display-name>hirona</display-name> 
-</channel> 
 <channel id="penta.us"> 
 <display-name>penta</display-name> 
 </channel> 
-<channel id="bythybeard.us"> 
-<display-name>bythybeard</display-name> 
+<channel id="hirona.us"> 
+<display-name>hirona</display-name> 
 </channel> 
 <channel id="occamssabre.us"> 
 <display-name>occamssabre</display-name> 
 </channel> 
 <channel id="moosebrother.us"> 
 <display-name>moosebrother</display-name> 
+</channel> 
+<channel id="africansnowball.us"> 
+<display-name>africansnowball</display-name> 
+</channel> 
+<channel id="bythybeard.us"> 
+<display-name>bythybeard</display-name> 
 </channel> 
 <channel id="kinkyhobo_.us"> 
 <display-name>kinkyhobo_</display-name> 
@@ -31,20 +34,20 @@
 <channel id="blaustoise.us"> 
 <display-name>blaustoise</display-name> 
 </channel> 
-<channel id="sykkuno.us"> 
-<display-name>sykkuno</display-name> 
-</channel> 
-<channel id="ramee.us"> 
-<display-name>ramee</display-name> 
+<channel id="shotz.us"> 
+<display-name>shotz</display-name> 
 </channel> 
 <channel id="hutchmf.us"> 
 <display-name>hutchmf</display-name> 
 </channel> 
-<channel id="shotz.us"> 
-<display-name>shotz</display-name> 
+<channel id="ramee.us"> 
+<display-name>ramee</display-name> 
 </channel> 
 <channel id="koil.us"> 
 <display-name>koil</display-name> 
+</channel> 
+<channel id="crystalst.us"> 
+<display-name>crystalst</display-name> 
 </channel> 
 <channel id="uberhaxornova.us"> 
 <display-name>uberhaxornova</display-name> 
@@ -52,17 +55,14 @@
 <channel id="kiva.us"> 
 <display-name>kiva</display-name> 
 </channel> 
-<channel id="crystalst.us"> 
-<display-name>crystalst</display-name> 
-</channel> 
-<channel id="realzman.us"> 
-<display-name>realzman</display-name> 
-</channel> 
 <channel id="msteamkk.us"> 
 <display-name>msteamkk</display-name> 
 </channel> 
 <channel id="theeazylife.us"> 
 <display-name>theeazylife</display-name> 
+</channel> 
+<channel id="realzman.us"> 
+<display-name>realzman</display-name> 
 </channel> 
 <channel id="knotty.us"> 
 <display-name>knotty</display-name> 
@@ -70,123 +70,120 @@
 <channel id="whippy.us"> 
 <display-name>whippy</display-name> 
 </channel> 
-<programme start="20211119000000 +0000" stop="20211122235700 +0000" channel="clearepg.us"> 
+<channel id="lysium.us"> 
+<display-name>lysium</display-name> 
+</channel> 
+<programme start="20211120000000 +0000" stop="20211123002700 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
-</programme> 
-<programme start="20211119183609 +0000" stop="20211122133609 +0000" channel="hirona.us"> 
-<title lang="en"> Copper - !me </title> 
-<desc lang="en"> Started: 1:36PM 
-Playing: Grand Theft Auto V 
-Viewers: 1110 </desc> 
 </programme> 
 <programme start="20211119222856 +0000" stop="20211122172856 +0000" channel="penta.us"> 
 <title lang="en"> NoPixel - Wranglin' WHITE WIDOW COURT CASE @ MIDNIGHT </title> 
 <desc lang="en"> Started: 5:28PM 
 Playing: Grand Theft Auto V 
-Viewers: 9376 </desc> 
+Viewers: 9412 </desc> 
 </programme> 
-<programme start="20211119165134 +0000" stop="20211122115134 +0000" channel="bythybeard.us"> 
-<title lang="en"> Det. Hardcastle - NoPixel - !subathon </title> 
-<desc lang="en"> Started: 11:51AM 
+<programme start="20211119183609 +0000" stop="20211122133609 +0000" channel="hirona.us"> 
+<title lang="en"> Copper - !me </title> 
+<desc lang="en"> Started: 1:36PM 
 Playing: Grand Theft Auto V 
-Viewers: 129 </desc> 
+Viewers: 1049 </desc> 
 </programme> 
 <programme start="20211119225542 +0000" stop="20211122175542 +0000" channel="occamssabre.us"> 
 <title lang="en"> LT Jeffrey Bundy - NoPixel WL </title> 
 <desc lang="en"> Started: 5:55PM 
 Playing: Grand Theft Auto V 
-Viewers: 655 </desc> 
+Viewers: 581 </desc> 
 </programme> 
 <programme start="20211120025824 +0000" stop="20211122215824 +0000" channel="moosebrother.us"> 
 <title lang="en"> NoPixel WL - I'm A Cop - 360 Louis Bloom - Hooker Cop </title> 
 <desc lang="en"> Started: 9:58PM 
 Playing: Grand Theft Auto V 
-Viewers: 69 </desc> 
+Viewers: 72 </desc> 
+</programme> 
+<programme start="20211120045837 +0000" stop="20211122235837 +0000" channel="africansnowball.us"> 
+<title lang="en"> Carter in Court (Sick Carter) - NoPixel </title> 
+<desc lang="en"> Started: 11:58PM 
+Playing: Grand Theft Auto V 
+Viewers: 57 </desc> 
+</programme> 
+<programme start="20211119165134 +0000" stop="20211122115134 +0000" channel="bythybeard.us"> 
+<title lang="en"> Det. Hardcastle - NoPixel - !subathon </title> 
+<desc lang="en"> Started: 11:51AM 
+Playing: Grand Theft Auto V 
+Viewers: 97 </desc> 
 </programme> 
 <programme start="20211120003042 +0000" stop="20211122193042 +0000" channel="kinkyhobo_.us"> 
 <title lang="en"> [NoPixel] Officer Max Muller, Special Agent of the BTF - GTARP </title> 
 <desc lang="en"> Started: 7:30PM 
 Playing: Grand Theft Auto V 
-Viewers: 6 </desc> 
+Viewers: 7 </desc> 
 </programme> 
 <programme start="20211119233655 +0000" stop="20211122183655 +0000" channel="Melipastel.us"> 
 <title lang="en"> ❤ pokemon diamond, FIRST time :D ❤ - ig: @Melipastel - !subgift !discord !ac </title> 
 <desc lang="en"> Started: 6:36PM 
 Playing: Pokémon Brilliant Diamond/Shining Pearl 
-Viewers: 181 </desc> 
+Viewers: 238 </desc> 
 </programme> 
 <programme start="20211120011117 +0000" stop="20211122201117 +0000" channel="SodaKite.us"> 
 <title lang="en"> sherlock holmes </title> 
 <desc lang="en"> Started: 8:11PM 
 Playing: Sherlock Holmes: Chapter One 
-Viewers: 358 </desc> 
+Viewers: 385 </desc> 
 </programme> 
 <programme start="20211119225926 +0000" stop="20211122175926 +0000" channel="jonthebroski.us"> 
 <title lang="en"> Denzel Williams - NoPixel - Perma Friday Poggers </title> 
 <desc lang="en"> Started: 5:59PM 
 Playing: Grand Theft Auto V 
-Viewers: 2088 </desc> 
+Viewers: 1865 </desc> 
 </programme> 
 <programme start="20211119230557 +0000" stop="20211122180557 +0000" channel="blaustoise.us"> 
 <title lang="en"> Klay Kona - The Ride Along o7 - NoPixel - !newtiktok !newvideo - Supported by !apex !gfuel !glorious </title> 
 <desc lang="en"> Started: 6:05PM 
 Playing: Grand Theft Auto V 
-Viewers: 5195 </desc> 
-</programme> 
-<programme start="20211119232258 +0000" stop="20211122182258 +0000" channel="sykkuno.us"> 
-<title lang="en"> POKEMONS permadeth </title> 
-<desc lang="en"> Started: 6:22PM 
-Playing: Pokémon Brilliant Diamond/Shining Pearl 
-Viewers: 17970 </desc> 
-</programme> 
-<programme start="20211119195929 +0000" stop="20211122145929 +0000" channel="ramee.us"> 
-<title lang="en"> 24 Hour Stream - !Twitter !ArtesianBuilds !GFuel - Chang Gang - NoPixel </title> 
-<desc lang="en"> Started: 2:59PM 
-Playing: Grand Theft Auto V 
-Viewers: 17408 </desc> 
-</programme> 
-<programme start="20211120003126 +0000" stop="20211122193126 +0000" channel="hutchmf.us"> 
-<title lang="en"> Scuffed day - !gfuel !twitter !youtube </title> 
-<desc lang="en"> Started: 7:31PM 
-Playing: Grand Theft Auto V 
-Viewers: 634 </desc> 
+Viewers: 5274 </desc> 
 </programme> 
 <programme start="20211119134238 +0000" stop="20211122084238 +0000" channel="shotz.us"> 
 <title lang="en"> Vinny Pistone - Chang Gang - Subathon - !VBI !PObox !GFuel !Artesian !HelloFresh !Merch </title> 
 <desc lang="en"> Started: 8:42AM 
 Playing: Grand Theft Auto V 
-Viewers: 2408 </desc> 
+Viewers: 2054 </desc> 
+</programme> 
+<programme start="20211120003126 +0000" stop="20211122193126 +0000" channel="hutchmf.us"> 
+<title lang="en"> Scuffed day - !gfuel !twitter !youtube </title> 
+<desc lang="en"> Started: 7:31PM 
+Playing: Grand Theft Auto V 
+Viewers: 994 </desc> 
+</programme> 
+<programme start="20211119195929 +0000" stop="20211122145929 +0000" channel="ramee.us"> 
+<title lang="en"> 24 Hour Stream - !Twitter !ArtesianBuilds !GFuel - Chang Gang - NoPixel </title> 
+<desc lang="en"> Started: 2:59PM 
+Playing: Grand Theft Auto V 
+Viewers: 17019 </desc> 
 </programme> 
 <programme start="20211119214444 +0000" stop="20211122164444 +0000" channel="koil.us"> 
 <title lang="en"> frenes j frner </title> 
 <desc lang="en"> Started: 4:44PM 
 Playing: Grand Theft Auto V 
-Viewers: 6911 </desc> 
-</programme> 
-<programme start="20211120004333 +0000" stop="20211122194333 +0000" channel="uberhaxornova.us"> 
-<title lang="en"> Siz  hopefully more maybe - NoPixel - Creator Code: Nova - check !paststreams </title> 
-<desc lang="en"> Started: 7:43PM 
-Playing: Grand Theft Auto V 
-Viewers: 3682 </desc> 
-</programme> 
-<programme start="20211119225439 +0000" stop="20211122175439 +0000" channel="kiva.us"> 
-<title lang="en"> Andi - Subathon - NoPixel </title> 
-<desc lang="en"> Started: 5:54PM 
-Playing: Grand Theft Auto V 
-Viewers: 475 </desc> 
+Viewers: 6548 </desc> 
 </programme> 
 <programme start="20211119200031 +0000" stop="20211122150031 +0000" channel="crystalst.us"> 
 <title lang="en"> Crystal Clear - NoPixel </title> 
 <desc lang="en"> Started: 3:00PM 
 Playing: Grand Theft Auto V 
-Viewers: 724 </desc> 
+Viewers: 776 </desc> 
 </programme> 
-<programme start="20211120030447 +0000" stop="20211122220447 +0000" channel="realzman.us"> 
-<title lang="en"> SUBATHON. Malakai l NoPixel WL l Hewwwoooo Lets Hang </title> 
-<desc lang="en"> Started: 10:04PM 
+<programme start="20211120004333 +0000" stop="20211122194333 +0000" channel="uberhaxornova.us"> 
+<title lang="en"> Siz  hopefully more maybe - NoPixel - Creator Code: Nova - check !paststreams </title> 
+<desc lang="en"> Started: 7:43PM 
 Playing: Grand Theft Auto V 
-Viewers: 44 </desc> 
+Viewers: 3768 </desc> 
+</programme> 
+<programme start="20211119225439 +0000" stop="20211122175439 +0000" channel="kiva.us"> 
+<title lang="en"> Andi - Subathon - NoPixel </title> 
+<desc lang="en"> Started: 5:54PM 
+Playing: Grand Theft Auto V 
+Viewers: 435 </desc> 
 </programme> 
 <programme start="20211120010338 +0000" stop="20211122200338 +0000" channel="msteamkk.us"> 
 <title lang="en"> Sunny Brooks -- NoPixel WL </title> 
@@ -198,17 +195,29 @@ Viewers: 90 </desc>
 <title lang="en"> NoPixel WL - Brandon Valentino - #Blah </title> 
 <desc lang="en"> Started: 9:14PM 
 Playing: Grand Theft Auto V 
-Viewers: 58 </desc> 
+Viewers: 47 </desc> 
+</programme> 
+<programme start="20211120030447 +0000" stop="20211122220447 +0000" channel="realzman.us"> 
+<title lang="en"> SUBATHON. Malakai l NoPixel WL l Hewwwoooo Lets Hang </title> 
+<desc lang="en"> Started: 10:04PM 
+Playing: Grand Theft Auto V 
+Viewers: 44 </desc> 
 </programme> 
 <programme start="20211120020039 +0000" stop="20211122210039 +0000" channel="knotty.us"> 
 <title lang="en"> Guy Jones - NoPixel - !subathon - !Advanced - !NBC - !NEWVID - !Socials </title> 
 <desc lang="en"> Started: 9:00PM 
 Playing: Grand Theft Auto V 
-Viewers: 344 </desc> 
+Viewers: 275 </desc> 
 </programme> 
 <programme start="20211119235911 +0000" stop="20211122185911 +0000" channel="whippy.us"> 
 <title lang="en"> "The Hour Long Escape" Dundee Nopixel !Lenovo !Nordvpn !Displate !meta </title> 
 <desc lang="en"> Started: 6:59PM 
 Playing: Grand Theft Auto V 
-Viewers: 3939 </desc> 
+Viewers: 4096 </desc> 
+</programme> 
+<programme start="20211120051825 +0000" stop="20211123001825 +0000" channel="lysium.us"> 
+<title lang="en"> Reddit then Viewer Crab Games w- Prizes - !socials !crab </title> 
+<desc lang="en"> Started: 12:18AM 
+Playing: Grand Theft Auto V 
+Viewers: 632 </desc> 
 </programme> 
