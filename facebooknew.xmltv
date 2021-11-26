@@ -1,14 +1,28 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
+<channel id="RatedEpiczLive.us"> 
+<display-name>RatedEpiczLive</display-name> 
+</channel> 
 <channel id="OfficialTaco.us"> 
 <display-name>OfficialTaco</display-name> 
 </channel> 
-<programme start="20211126000000 +0000" stop="20211129125804 +0000" channel="clearepg.us"> 
+<channel id="wtfmoses.us"> 
+<display-name>wtfmoses</display-name> 
+</channel> 
+<programme start="20211126000000 +0000" stop="20211129145804 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
 </programme> 
-<programme start="20211126000000 +0000" stop="20211129125815 +0000" channel="OfficialTaco.us"> 
+<programme start="20211126000000 +0000" stop="20211129145809 +0000" channel="RatedEpiczLive.us"> 
+<title lang="en"> Randy Bullet - Chang Gang - GTA V RP - NoPixel </title> 
+<desc lang="en"> RatedEpiczLive - Randy Bullet a member of the Chang Gang known for his all around abilities causes chaos in the GTA V RP NoPixel servers! We also feature Trooper A.J.... </desc> 
+</programme> 
+<programme start="20211126000000 +0000" stop="20211129145815 +0000" channel="OfficialTaco.us"> 
 <title lang="en"> Taco Prince - NoPixel @OfficialTaco #gtamods #mods </title> 
 <desc lang="en"> OfficialTaco - Chang Gang robbing/racing/banks causing chaos in GTA V RP Socials: https://twitter.com/OfficialTaco69... </desc> 
+</programme> 
+<programme start="20211126000000 +0000" stop="20211129145817 +0000" channel="wtfmoses.us"> 
+<title lang="en"> BATTLEFIELD 2042 - @wtfmoses </title> 
+<desc lang="en"> wtfmoses - I am pretty sure the AR's are all still bad 🧐 - What have you been using? Working on some unlocks then Conquest/Breakthrough. #Battlefield2042 #Battlefield </desc> 
 </programme> 
