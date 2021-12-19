@@ -1,14 +1,8 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<channel id="cathfawr.us"> 
-<display-name>cathfawr</display-name> 
-</channel> 
-<channel id="africansnowball.us"> 
-<display-name>africansnowball</display-name> 
-</channel> 
-<channel id="rerolldota.us"> 
-<display-name>rerolldota</display-name> 
+<channel id="penta.us"> 
+<display-name>penta</display-name> 
 </channel> 
 <channel id="moosebrother.us"> 
 <display-name>moosebrother</display-name> 
@@ -16,8 +10,11 @@
 <channel id="occamssabre.us"> 
 <display-name>occamssabre</display-name> 
 </channel> 
-<channel id="penta.us"> 
-<display-name>penta</display-name> 
+<channel id="rerolldota.us"> 
+<display-name>rerolldota</display-name> 
+</channel> 
+<channel id="africansnowball.us"> 
+<display-name>africansnowball</display-name> 
 </channel> 
 <channel id="Melipastel.us"> 
 <display-name>Melipastel</display-name> 
@@ -28,23 +25,20 @@
 <channel id="biotoxz_.us"> 
 <display-name>biotoxz_</display-name> 
 </channel> 
-<channel id="polen.us"> 
-<display-name>polen</display-name> 
-</channel> 
 <channel id="lunaoni.us"> 
 <display-name>lunaoni</display-name> 
 </channel> 
-<channel id="carmen.us"> 
-<display-name>carmen</display-name> 
+<channel id="polen.us"> 
+<display-name>polen</display-name> 
 </channel> 
 <channel id="xqcow.us"> 
 <display-name>xqcow</display-name> 
 </channel> 
+<channel id="carmen.us"> 
+<display-name>carmen</display-name> 
+</channel> 
 <channel id="whippy.us"> 
 <display-name>whippy</display-name> 
-</channel> 
-<channel id="bazzagazza.us"> 
-<display-name>bazzagazza</display-name> 
 </channel> 
 <channel id="LotsOfBunnies.us"> 
 <display-name>LotsOfBunnies</display-name> 
@@ -52,127 +46,115 @@
 <channel id="TPAIN.us"> 
 <display-name>TPAIN</display-name> 
 </channel> 
-<channel id="ash.us"> 
-<display-name>ash</display-name> 
-</channel> 
 <channel id="Saiiren.us"> 
 <display-name>Saiiren</display-name> 
 </channel> 
-<programme start="20211219000000 +0000" stop="20211222002700 +0000" channel="clearepg.us"> 
+<channel id="ash.us"> 
+<display-name>ash</display-name> 
+</channel> 
+<programme start="20211219000000 +0000" stop="20211222005700 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
-</programme> 
-<programme start="20211218184426 +0000" stop="20211221134426 +0000" channel="cathfawr.us"> 
-<title lang="en"> Summer - NoPixel WL !decal !socials !nexus !NordVPN </title> 
-<desc lang="en"> Started: 1:44PM 
-Playing: Grand Theft Auto V 
-Viewers: 254 </desc> 
-</programme> 
-<programme start="20211218223829 +0000" stop="20211221173829 +0000" channel="africansnowball.us"> 
-<title lang="en"> 311 Carter - - NoPixel </title> 
-<desc lang="en"> Started: 5:38PM 
-Playing: Grand Theft Auto V 
-Viewers: 246 </desc> 
-</programme> 
-<programme start="20211219040349 +0000" stop="20211221230349 +0000" channel="rerolldota.us"> 
-<title lang="en"> NoPixel WL - 'The Enforcer' - Snr Deputy  Chaos K9 things </title> 
-<desc lang="en"> Started: 11:03PM 
-Playing: Grand Theft Auto V 
-Viewers: 49 </desc> 
-</programme> 
-<programme start="20211219015156 +0000" stop="20211221205156 +0000" channel="moosebrother.us"> 
-<title lang="en"> NoPixel WL - 360 W Cop Louis Bloom - Tony Block Cop Ride-A-Long </title> 
-<desc lang="en"> Started: 8:51PM 
-Playing: Grand Theft Auto V 
-Viewers: 237 </desc> 
-</programme> 
-<programme start="20211218225522 +0000" stop="20211221175522 +0000" channel="occamssabre.us"> 
-<title lang="en"> Captain Jeffrey Bundy - #ad !raid </title> 
-<desc lang="en"> Started: 5:55PM 
-Playing: Grand Theft Auto V 
-Viewers: 904 </desc> 
 </programme> 
 <programme start="20211218223717 +0000" stop="20211221173717 +0000" channel="penta.us"> 
 <title lang="en"> NOPIXEL - DRAG NIGHT AT PITCHERS </title> 
 <desc lang="en"> Started: 5:37PM 
 Playing: Grand Theft Auto V 
-Viewers: 10173 </desc> 
+Viewers: 9805 </desc> 
+</programme> 
+<programme start="20211219015156 +0000" stop="20211221205156 +0000" channel="moosebrother.us"> 
+<title lang="en"> NoPixel WL - 360 W Cop Louis Bloom - Tony Block Cop Ride-A-Long </title> 
+<desc lang="en"> Started: 8:51PM 
+Playing: Grand Theft Auto V 
+Viewers: 256 </desc> 
+</programme> 
+<programme start="20211218225522 +0000" stop="20211221175522 +0000" channel="occamssabre.us"> 
+<title lang="en"> Captain Jeffrey Bundy - #ad !raid </title> 
+<desc lang="en"> Started: 5:55PM 
+Playing: Grand Theft Auto V 
+Viewers: 882 </desc> 
+</programme> 
+<programme start="20211219040349 +0000" stop="20211221230349 +0000" channel="rerolldota.us"> 
+<title lang="en"> NoPixel WL - 'The Enforcer' - Snr Deputy  Chaos K9 things </title> 
+<desc lang="en"> Started: 11:03PM 
+Playing: Grand Theft Auto V 
+Viewers: 71 </desc> 
+</programme> 
+<programme start="20211218223829 +0000" stop="20211221173829 +0000" channel="africansnowball.us"> 
+<title lang="en"> 311 Carter - - NoPixel </title> 
+<desc lang="en"> Started: 5:38PM 
+Playing: Grand Theft Auto V 
+Viewers: 286 </desc> 
 </programme> 
 <programme start="20211219013820 +0000" stop="20211221203820 +0000" channel="Melipastel.us"> 
 <title lang="en"> ❤ post-game FUN! andpokémon catchin ❤ - ig: @Melipastel - !subgift !discord !ac </title> 
 <desc lang="en"> Started: 8:38PM 
 Playing: Pokémon Brilliant Diamond/Shining Pearl 
-Viewers: 183 </desc> 
+Viewers: 177 </desc> 
 </programme> 
 <programme start="20211219024031 +0000" stop="20211221214031 +0000" channel="shaww0w.us"> 
 <title lang="en"> Garry Roche - Juice Up Gymnasium - Burger Shot - NoPixel WL GTA RP </title> 
 <desc lang="en"> Started: 9:40PM 
 Playing: Grand Theft Auto V 
-Viewers: 37 </desc> 
+Viewers: 25 </desc> 
 </programme> 
 <programme start="20211218220013 +0000" stop="20211221170013 +0000" channel="biotoxz_.us"> 
 <title lang="en"> (tower goblin)(REAL) The Honorable Hood Judge Bjorn Tripod Corleone Warden of the North Survivor of the 9's - NoPixel WL </title> 
 <desc lang="en"> Started: 5:00PM 
 Playing: Grand Theft Auto V 
-Viewers: 2537 </desc> 
-</programme> 
-<programme start="20211218173331 +0000" stop="20211221123331 +0000" channel="polen.us"> 
-<title lang="en"> [NoPixel WL] "AP" bing - Adam Peterson - Twitter: @iiPolen </title> 
-<desc lang="en"> Started: 12:33PM 
-Playing: Grand Theft Auto V 
-Viewers: 181 </desc> 
+Viewers: 2203 </desc> 
 </programme> 
 <programme start="20211218224035 +0000" stop="20211221174035 +0000" channel="lunaoni.us"> 
 <title lang="en"> NoPixel WL - Corporal Claire Everly - Discord.gg-LunaOni @LunaOni_ </title> 
 <desc lang="en"> Started: 5:40PM 
 Playing: Grand Theft Auto V 
-Viewers: 1998 </desc> 
+Viewers: 1483 </desc> 
 </programme> 
-<programme start="20211218193508 +0000" stop="20211221143508 +0000" channel="carmen.us"> 
-<title lang="en"> ♡carmella - SUBATHON♡ - nopixel </title> 
-<desc lang="en"> Started: 2:35PM 
+<programme start="20211218173331 +0000" stop="20211221123331 +0000" channel="polen.us"> 
+<title lang="en"> [NoPixel WL] "AP" bing - Adam Peterson - Twitter: @iiPolen </title> 
+<desc lang="en"> Started: 12:33PM 
 Playing: Grand Theft Auto V 
-Viewers: 3277 </desc> 
+Viewers: 182 </desc> 
 </programme> 
 <programme start="20211219041152 +0000" stop="20211221231152 +0000" channel="xqcow.us"> 
 <title lang="en"> and**and)(*and#($and@(*$and@_$(*@opi{p{}:@}{:${}#@:{}#@:{}:$#@}{$:@#}{$:@# "$:e "w:r{#:}{:$}{@#$:@$@$@#$!@$%$@!$#@$#$*(*and(*$and(#@)and$#$$and*# </title> 
 <desc lang="en"> Started: 11:11PM 
 Playing: Just Chatting 
-Viewers: 65335 </desc> 
+Viewers: 76431 </desc> 
+</programme> 
+<programme start="20211218193508 +0000" stop="20211221143508 +0000" channel="carmen.us"> 
+<title lang="en"> ♡carmella - SUBATHON♡ - nopixel </title> 
+<desc lang="en"> Started: 2:35PM 
+Playing: Grand Theft Auto V 
+Viewers: 3149 </desc> 
 </programme> 
 <programme start="20211218235924 +0000" stop="20211221185924 +0000" channel="whippy.us"> 
 <title lang="en"> !CHARITY FOR SICK KIDS XMAS Dundee NoPixel !NordVPN !Displate </title> 
 <desc lang="en"> Started: 6:59PM 
 Playing: Grand Theft Auto V 
-Viewers: 6464 </desc> 
-</programme> 
-<programme start="20211218225812 +0000" stop="20211221175812 +0000" channel="bazzagazza.us"> 
-<title lang="en"> BARRY BBMC VP - NoPixel WL RP - GETTING THE CLUB UPGOOD MAYBE - !bodyscience </title> 
-<desc lang="en"> Started: 5:58PM 
-Playing: Grand Theft Auto V 
-Viewers: 1041 </desc> 
+Viewers: 6722 </desc> 
 </programme> 
 <programme start="20211219020626 +0000" stop="20211221210626 +0000" channel="LotsOfBunnies.us"> 
 <title lang="en"> DRAFT ICON QUEEN! !sub !fifa </title> 
 <desc lang="en"> Started: 9:06PM 
 Playing: FIFA 22 
-Viewers: 630 </desc> 
+Viewers: 571 </desc> 
 </programme> 
 <programme start="20211219040950 +0000" stop="20211221230950 +0000" channel="TPAIN.us"> 
 <title lang="en"> Get outta MY streams.. and in to my caaaaar !simrig !wheel </title> 
 <desc lang="en"> Started: 11:09PM 
 Playing: Forza Horizon 5 
-Viewers: 1399 </desc> 
-</programme> 
-<programme start="20211219035758 +0000" stop="20211221225758 +0000" channel="ash.us"> 
-<title lang="en"> Ash Ketchup (￢ᴗ￢) !ground </title> 
-<desc lang="en"> Started: 10:57PM 
-Playing: Grand Theft Auto V 
-Viewers: 2106 </desc> 
+Viewers: 1232 </desc> 
 </programme> 
 <programme start="20211219020841 +0000" stop="20211221210841 +0000" channel="Saiiren.us"> 
 <title lang="en"> EGG - Ai Musori - No Pixel WL - GUILD !streamloots #ad </title> 
 <desc lang="en"> Started: 9:08PM 
 Playing: Grand Theft Auto V 
-Viewers: 576 </desc> 
+Viewers: 550 </desc> 
+</programme> 
+<programme start="20211219035758 +0000" stop="20211221225758 +0000" channel="ash.us"> 
+<title lang="en"> Ash Ketchup (￢ᴗ￢) !ground </title> 
+<desc lang="en"> Started: 10:57PM 
+Playing: Grand Theft Auto V 
+Viewers: 2365 </desc> 
 </programme> 
