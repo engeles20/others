@@ -1,11 +1,11 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<channel id="hirona.us"> 
-<display-name>hirona</display-name> 
-</channel> 
 <channel id="Ssaab.us"> 
 <display-name>Ssaab</display-name> 
+</channel> 
+<channel id="hirona.us"> 
+<display-name>hirona</display-name> 
 </channel> 
 <channel id="kyle.us"> 
 <display-name>kyle</display-name> 
@@ -13,14 +13,17 @@
 <channel id="penta.us"> 
 <display-name>penta</display-name> 
 </channel> 
+<channel id="cosmic.us"> 
+<display-name>cosmic</display-name> 
+</channel> 
 <channel id="africansnowball.us"> 
 <display-name>africansnowball</display-name> 
 </channel> 
 <channel id="vindicelive.us"> 
 <display-name>vindicelive</display-name> 
 </channel> 
-<channel id="cosmic.us"> 
-<display-name>cosmic</display-name> 
+<channel id="amsyz.us"> 
+<display-name>amsyz</display-name> 
 </channel> 
 <channel id="dark0verseer.us"> 
 <display-name>dark0verseer</display-name> 
@@ -28,8 +31,8 @@
 <channel id="thesushidragon.us"> 
 <display-name>thesushidragon</display-name> 
 </channel> 
-<channel id="amsyz.us"> 
-<display-name>amsyz</display-name> 
+<channel id="blaustoise.us"> 
+<display-name>blaustoise</display-name> 
 </channel> 
 <channel id="HasanAbi.us"> 
 <display-name>HasanAbi</display-name> 
@@ -49,17 +52,17 @@
 <channel id="dorken.us"> 
 <display-name>dorken</display-name> 
 </channel> 
-<channel id="deansocool.us"> 
-<display-name>deansocool</display-name> 
-</channel> 
 <channel id="moose_taffy.us"> 
 <display-name>moose_taffy</display-name> 
 </channel> 
+<channel id="thegeekentry.us"> 
+<display-name>thegeekentry</display-name> 
+</channel> 
+<channel id="deansocool.us"> 
+<display-name>deansocool</display-name> 
+</channel> 
 <channel id="myladyballs.us"> 
 <display-name>myladyballs</display-name> 
-</channel> 
-<channel id="77_nights.us"> 
-<display-name>77_nights</display-name> 
 </channel> 
 <channel id="auriellis.us"> 
 <display-name>auriellis</display-name> 
@@ -67,139 +70,145 @@
 <channel id="aintitadam.us"> 
 <display-name>aintitadam</display-name> 
 </channel> 
-<programme start="20211224000000 +0000" stop="20211227152700 +0000" channel="clearepg.us"> 
+<programme start="20211224000000 +0000" stop="20211227155700 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
-</programme> 
-<programme start="20211224153805 +0000" stop="20211227103805 +0000" channel="hirona.us"> 
-<title lang="en"> Copper - NoPixel - !me !nordvpn </title> 
-<desc lang="en"> Started: 10:38AM 
-Playing: Grand Theft Auto V 
-Viewers: 2066 </desc> 
 </programme> 
 <programme start="20211224200524 +0000" stop="20211227150524 +0000" channel="Ssaab.us"> 
 <title lang="en"> Al Saab - Day 3 - Holiday Episode - Movie Night After Stream - NoPixel WL - !giveaway !tiktok </title> 
 <desc lang="en"> Started: 3:05PM 
 Playing: Grand Theft Auto V 
-Viewers: 3788 </desc> 
+Viewers: 6019 </desc> 
+</programme> 
+<programme start="20211224153805 +0000" stop="20211227103805 +0000" channel="hirona.us"> 
+<title lang="en"> Copper - NoPixel - !me !nordvpn </title> 
+<desc lang="en"> Started: 10:38AM 
+Playing: Grand Theft Auto V 
+Viewers: 2071 </desc> 
 </programme> 
 <programme start="20211224130510 +0000" stop="20211227080510 +0000" channel="kyle.us"> 
 <title lang="en"> Sheriff Kyle Pred - nopixel </title> 
 <desc lang="en"> Started: 8:05AM 
 Playing: Grand Theft Auto V 
-Viewers: 8002 </desc> 
+Viewers: 7835 </desc> 
 </programme> 
 <programme start="20211224193029 +0000" stop="20211227143029 +0000" channel="penta.us"> 
 <title lang="en"> NoPixel - Merry Christmas - Real games later </title> 
 <desc lang="en"> Started: 2:30PM 
 Playing: Grand Theft Auto V 
-Viewers: 7105 </desc> 
-</programme> 
-<programme start="20211224180718 +0000" stop="20211227130718 +0000" channel="africansnowball.us"> 
-<title lang="en"> 311 Carter - Merry Christmas - NoPixel </title> 
-<desc lang="en"> Started: 1:07PM 
-Playing: Grand Theft Auto V 
-Viewers: 193 </desc> 
-</programme> 
-<programme start="20211224180130 +0000" stop="20211227130130 +0000" channel="vindicelive.us"> 
-<title lang="en"> 391 Oliver Fury - NoPixel GTA RP - Customs MADGE </title> 
-<desc lang="en"> Started: 1:01PM 
-Playing: Grand Theft Auto V 
-Viewers: 85 </desc> 
+Viewers: 8315 </desc> 
 </programme> 
 <programme start="20211224173530 +0000" stop="20211227123530 +0000" channel="cosmic.us"> 
 <title lang="en"> NoPixel WL - Lt Casterman - discord.gg-cosmics - !subgoal !gamersupps </title> 
 <desc lang="en"> Started: 12:35PM 
 Playing: Grand Theft Auto V 
-Viewers: 204 </desc> 
+Viewers: 179 </desc> 
 </programme> 
-<programme start="20211224150748 +0000" stop="20211227100748 +0000" channel="dark0verseer.us"> 
-<title lang="en"> Nopixel Dev - 3DDev stuff - !current - </title> 
-<desc lang="en"> Started: 10:07AM 
+<programme start="20211224180718 +0000" stop="20211227130718 +0000" channel="africansnowball.us"> 
+<title lang="en"> 311 Carter - Merry Christmas - NoPixel </title> 
+<desc lang="en"> Started: 1:07PM 
 Playing: Grand Theft Auto V 
-Viewers: 182 </desc> 
+Viewers: 189 </desc> 
 </programme> 
-<programme start="20211224193031 +0000" stop="20211227143031 +0000" channel="thesushidragon.us"> 
-<title lang="en"> FPV XMAS DRONE SNOW DAY </title> 
-<desc lang="en"> Started: 2:30PM 
-Playing: Just Chatting 
-Viewers: 467 </desc> 
+<programme start="20211224180130 +0000" stop="20211227130130 +0000" channel="vindicelive.us"> 
+<title lang="en"> 391 Oliver Fury - NoPixel GTA RP - Customs MADGE </title> 
+<desc lang="en"> Started: 1:01PM 
+Playing: Grand Theft Auto V 
+Viewers: 74 </desc> 
 </programme> 
 <programme start="20211224201255 +0000" stop="20211227151255 +0000" channel="amsyz.us"> 
 <title lang="en"> zayn ahmed - b$k - nopixel WL </title> 
 <desc lang="en"> Started: 3:12PM 
 Playing: Grand Theft Auto V 
-Viewers: 8 </desc> 
+Viewers: 13 </desc> 
+</programme> 
+<programme start="20211224150748 +0000" stop="20211227100748 +0000" channel="dark0verseer.us"> 
+<title lang="en"> Nopixel Dev - 3DDev stuff - !current - </title> 
+<desc lang="en"> Started: 10:07AM 
+Playing: Grand Theft Auto V 
+Viewers: 165 </desc> 
+</programme> 
+<programme start="20211224193031 +0000" stop="20211227143031 +0000" channel="thesushidragon.us"> 
+<title lang="en"> FPV XMAS DRONE SNOW DAY </title> 
+<desc lang="en"> Started: 2:30PM 
+Playing: Just Chatting 
+Viewers: 407 </desc> 
+</programme> 
+<programme start="20211224204945 +0000" stop="20211227154945 +0000" channel="blaustoise.us"> 
+<title lang="en"> Downbad Mickey - NoPixel - !cbartcontest !bob - Supported by !apex !gfuel !glorious </title> 
+<desc lang="en"> Started: 3:49PM 
+Playing: Grand Theft Auto V 
+Viewers: 1233 </desc> 
 </programme> 
 <programme start="20211224184252 +0000" stop="20211227134252 +0000" channel="HasanAbi.us"> 
 <title lang="en"> XMAS EVE TIME W- JPEGMAFIA AND MYTH </title> 
 <desc lang="en"> Started: 1:42PM 
 Playing: Just Chatting 
-Viewers: 32002 </desc> 
+Viewers: 32668 </desc> 
 </programme> 
 <programme start="20211224162745 +0000" stop="20211227112745 +0000" channel="bananabrea.us"> 
 <title lang="en"> claire seducer :D - angels -twitter-insta @bananabreaa </title> 
 <desc lang="en"> Started: 11:27AM 
 Playing: Grand Theft Auto V 
-Viewers: 2674 </desc> 
+Viewers: 2647 </desc> 
 </programme> 
 <programme start="20211224181157 +0000" stop="20211227131157 +0000" channel="polen.us"> 
 <title lang="en"> [NoPixel WL] "AP" bing - Adam Peterson - Twitter: @iiPolen </title> 
 <desc lang="en"> Started: 1:11PM 
 Playing: Grand Theft Auto V 
-Viewers: 254 </desc> 
+Viewers: 204 </desc> 
 </programme> 
 <programme start="20211224150822 +0000" stop="20211227100822 +0000" channel="dwjft.us"> 
 <title lang="en"> Dean Watson - nopixel wl - development - !current !nord </title> 
 <desc lang="en"> Started: 10:08AM 
 Playing: Grand Theft Auto V 
-Viewers: 9391 </desc> 
+Viewers: 9355 </desc> 
 </programme> 
 <programme start="20211224010151 +0000" stop="20211226200151 +0000" channel="crystalst.us"> 
 <title lang="en"> Crystal Clear - NoPixel </title> 
 <desc lang="en"> Started: 8:01PM 
 Playing: Grand Theft Auto V 
-Viewers: 1562 </desc> 
+Viewers: 1572 </desc> 
 </programme> 
 <programme start="20211224142605 +0000" stop="20211227092605 +0000" channel="dorken.us"> 
 <title lang="en"> A Hopsi'Doodle Christmas ♡ Valentina Hops'iDoodle ♡ NoPixel WL ♡ !spooky </title> 
 <desc lang="en"> Started: 9:26AM 
 Playing: Grand Theft Auto V 
-Viewers: 186 </desc> 
-</programme> 
-<programme start="20211224154059 +0000" stop="20211227104059 +0000" channel="deansocool.us"> 
-<title lang="en"> Den Shiesty - 396 - No Pixel - G2 Esports !g2merch - !merch !socials !discord !twitchrecap2021 </title> 
-<desc lang="en"> Started: 10:40AM 
-Playing: Grand Theft Auto V 
-Viewers: 2636 </desc> 
+Viewers: 123 </desc> 
 </programme> 
 <programme start="20211224141112 +0000" stop="20211227091112 +0000" channel="moose_taffy.us"> 
 <title lang="en"> Patar Bellosh - MDM - No Pixel - Happy Holidays!! </title> 
 <desc lang="en"> Started: 9:11AM 
 Playing: Grand Theft Auto V 
-Viewers: 1152 </desc> 
+Viewers: 1208 </desc> 
+</programme> 
+<programme start="20211224204847 +0000" stop="20211227154847 +0000" channel="thegeekentry.us"> 
+<title lang="en"> 🔴 MERRY CHRISTMASSSS Stacey *NoFans* - NoPixel WL - </title> 
+<desc lang="en"> Started: 3:48PM 
+Playing: Grand Theft Auto V 
+Viewers: 61 </desc> 
+</programme> 
+<programme start="20211224154059 +0000" stop="20211227104059 +0000" channel="deansocool.us"> 
+<title lang="en"> Den Shiesty - 396 - No Pixel - G2 Esports !g2merch - !merch !socials !discord !twitchrecap2021 </title> 
+<desc lang="en"> Started: 10:40AM 
+Playing: Grand Theft Auto V 
+Viewers: 2425 </desc> 
 </programme> 
 <programme start="20211224175244 +0000" stop="20211227125244 +0000" channel="myladyballs.us"> 
 <title lang="en"> NoPixel RP WL - Vero Garcia - ESV Veterana Naughty or Nice? Happy Holidays #ArtesianBuilds - !Partner !twitter !discord </title> 
 <desc lang="en"> Started: 12:52PM 
 Playing: Grand Theft Auto V 
-Viewers: 108 </desc> 
-</programme> 
-<programme start="20211224192614 +0000" stop="20211227142614 +0000" channel="77_nights.us"> 
-<title lang="en"> 🇸🇻 Damian De Santos - Vagos , Vida Jamestown - NoPixel WL 🇸🇻 </title> 
-<desc lang="en"> Started: 2:26PM 
-Playing: Grand Theft Auto V 
-Viewers: 74 </desc> 
+Viewers: 105 </desc> 
 </programme> 
 <programme start="20211224120211 +0000" stop="20211227070211 +0000" channel="auriellis.us"> 
-<title lang="en"> Ursula - Christmas Eve All Day Stream! Subathon! - CAT CAM - NoPixel WL </title> 
+<title lang="en"> Eris (Ursula) - Christmas Eve All Day Stream! Subathon! - CAT CAM - NoPixel WL </title> 
 <desc lang="en"> Started: 7:02AM 
 Playing: Grand Theft Auto V 
-Viewers: 83 </desc> 
+Viewers: 64 </desc> 
 </programme> 
 <programme start="20211224200616 +0000" stop="20211227150616 +0000" channel="aintitadam.us"> 
 <title lang="en"> Scruffy Hops'iDoodle - Nopixel WL </title> 
 <desc lang="en"> Started: 3:06PM 
 Playing: Grand Theft Auto V 
-Viewers: 29 </desc> 
+Viewers: 36 </desc> 
 </programme> 
