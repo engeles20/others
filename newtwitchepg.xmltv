@@ -1,23 +1,23 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
+<channel id="aus24.us"> 
+<display-name>aus24</display-name> 
+</channel> 
 <channel id="penta.us"> 
 <display-name>penta</display-name> 
 </channel> 
-<channel id="xiceman.us"> 
-<display-name>xiceman</display-name> 
-</channel> 
-<channel id="africansnowball.us"> 
-<display-name>africansnowball</display-name> 
+<channel id="hotted89.us"> 
+<display-name>hotted89</display-name> 
 </channel> 
 <channel id="rerolldota.us"> 
 <display-name>rerolldota</display-name> 
 </channel> 
+<channel id="xiceman.us"> 
+<display-name>xiceman</display-name> 
+</channel> 
 <channel id="shaww0w.us"> 
 <display-name>shaww0w</display-name> 
-</channel> 
-<channel id="sykkuno.us"> 
-<display-name>sykkuno</display-name> 
 </channel> 
 <channel id="blaustoise.us"> 
 <display-name>blaustoise</display-name> 
@@ -25,14 +25,14 @@
 <channel id="adeptthebest.us"> 
 <display-name>adeptthebest</display-name> 
 </channel> 
-<channel id="crystalst.us"> 
-<display-name>crystalst</display-name> 
+<channel id="xqcow.us"> 
+<display-name>xqcow</display-name> 
 </channel> 
 <channel id="thechief1114.us"> 
 <display-name>thechief1114</display-name> 
 </channel> 
-<channel id="xqcow.us"> 
-<display-name>xqcow</display-name> 
+<channel id="crystalst.us"> 
+<display-name>crystalst</display-name> 
 </channel> 
 <channel id="TPAIN.us"> 
 <display-name>TPAIN</display-name> 
@@ -40,85 +40,94 @@
 <channel id="COREANOLOCOLIVE.us"> 
 <display-name>COREANOLOCOLIVE</display-name> 
 </channel> 
-<programme start="20220110000000 +0000" stop="20220113012700 +0000" channel="clearepg.us"> 
+<channel id="reina.us"> 
+<display-name>reina</display-name> 
+</channel> 
+<programme start="20220110000000 +0000" stop="20220113015700 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
+</programme> 
+<programme start="20220110065524 +0000" stop="20220113015524 +0000" channel="aus24.us"> 
+<title lang="en"> SGT Davenport - LSPD - NoPixel WL - #Harmony </title> 
+<desc lang="en"> Started: 1:55AM 
+Playing: Grand Theft Auto V 
+Viewers: 2 </desc> 
 </programme> 
 <programme start="20220109224128 +0000" stop="20220112174128 +0000" channel="penta.us"> 
 <title lang="en"> NOPIXEL - Wranglin' </title> 
 <desc lang="en"> Started: 5:41PM 
 Playing: Grand Theft Auto V 
-Viewers: 10318 </desc> 
+Viewers: 10804 </desc> 
 </programme> 
-<programme start="20220110060039 +0000" stop="20220113010039 +0000" channel="xiceman.us"> 
-<title lang="en"> Mike Bayo - NoPixel WL - @Xiceman126 </title> 
-<desc lang="en"> Started: 1:00AM 
+<programme start="20220110064844 +0000" stop="20220113014844 +0000" channel="hotted89.us"> 
+<title lang="en"> JJ - Nopixel WL - discord twitter </title> 
+<desc lang="en"> Started: 1:48AM 
 Playing: Grand Theft Auto V 
-Viewers: 336 </desc> 
-</programme> 
-<programme start="20220109220953 +0000" stop="20220112170953 +0000" channel="africansnowball.us"> 
-<title lang="en"> Carter - SRU - Internal Affairs - NoPixel </title> 
-<desc lang="en"> Started: 5:09PM 
-Playing: Grand Theft Auto V 
-Viewers: 412 </desc> 
+Viewers: 33 </desc> 
 </programme> 
 <programme start="20220109232938 +0000" stop="20220112182938 +0000" channel="rerolldota.us"> 
 <title lang="en"> Nopixel WL - 'The Enforcer' - #GETSOME </title> 
 <desc lang="en"> Started: 6:29PM 
 Playing: Grand Theft Auto V 
-Viewers: 184 </desc> 
+Viewers: 186 </desc> 
+</programme> 
+<programme start="20220110060039 +0000" stop="20220113010039 +0000" channel="xiceman.us"> 
+<title lang="en"> Mike Bayo - NoPixel WL - @Xiceman126 </title> 
+<desc lang="en"> Started: 1:00AM 
+Playing: Grand Theft Auto V 
+Viewers: 467 </desc> 
 </programme> 
 <programme start="20220109233053 +0000" stop="20220112183053 +0000" channel="shaww0w.us"> 
 <title lang="en"> Garry Roche - Burger Shot Purge Arc - NoPixel WL GTA RP </title> 
 <desc lang="en"> Started: 6:30PM 
 Playing: Grand Theft Auto V 
-Viewers: 34 </desc> 
-</programme> 
-<programme start="20220109222615 +0000" stop="20220112172615 +0000" channel="sykkuno.us"> 
-<title lang="en"> iron 1 player fights to the death </title> 
-<desc lang="en"> Started: 5:26PM 
-Playing: League of Legends 
-Viewers: 15950 </desc> 
+Viewers: 50 </desc> 
 </programme> 
 <programme start="20220109205415 +0000" stop="20220112155415 +0000" channel="blaustoise.us"> 
 <title lang="en"> CB COMMS ARE BROKEN AS ALWAYS AND WE ARE PLAYING SOME GAME BUT NOT SURE WHAT BUT IT IS A RIOT GAME :) - Supported by apex glorious gfuel </title> 
 <desc lang="en"> Started: 3:54PM 
 Playing: League of Legends 
-Viewers: 3394 </desc> 
+Viewers: 4066 </desc> 
 </programme> 
 <programme start="20220110034428 +0000" stop="20220112224428 +0000" channel="adeptthebest.us"> 
 <title lang="en"> omg cam stream wowzer brunette gone role player self insert </title> 
 <desc lang="en"> Started: 10:44PM 
 Playing: Grand Theft Auto V 
-Viewers: 2188 </desc> 
+Viewers: 2687 </desc> 
 </programme> 
-<programme start="20220109004027 +0000" stop="20220111194027 +0000" channel="crystalst.us"> 
-<title lang="en"> Deputy Crystal Clear - NoPixel </title> 
-<desc lang="en"> Started: 7:40PM 
-Playing: Grand Theft Auto V 
-Viewers: 2417 </desc> 
+<programme start="20220109202107 +0000" stop="20220112152107 +0000" channel="xqcow.us"> 
+<title lang="en"> GETTING EVERY SINGLE PERSON MALD ON THE INTERNET OVER LOOKING AT DRAWINGS. CHALLENGE: JOURNALIST DIFFICULTY LULW. 5R4355654646465435513RFREG </title> 
+<desc lang="en"> Started: 3:21PM 
+Playing: Escape from Tarkov 
+Viewers: 57572 </desc> 
 </programme> 
 <programme start="20220110000401 +0000" stop="20220112190401 +0000" channel="thechief1114.us"> 
 <title lang="en"> Fingle Dan - NoPixel </title> 
 <desc lang="en"> Started: 7:04PM 
 Playing: Grand Theft Auto V 
-Viewers: 2819 </desc> 
+Viewers: 2555 </desc> 
 </programme> 
-<programme start="20220109202107 +0000" stop="20220112152107 +0000" channel="xqcow.us"> 
-<title lang="en"> GETTING EVERY SINGLE PERSON MALD ON THE INTERNET OVER LOOKING AT DRAWINGS. CHALLENGE: JOURNALIST DIFFICULTY LULW. 5R4355654646465435513RFREG </title> 
-<desc lang="en"> Started: 3:21PM 
-Playing: League of Legends 
-Viewers: 69056 </desc> 
+<programme start="20220109004027 +0000" stop="20220111194027 +0000" channel="crystalst.us"> 
+<title lang="en"> Deputy Crystal Clear - NoPixel </title> 
+<desc lang="en"> Started: 7:40PM 
+Playing: Grand Theft Auto V 
+Viewers: 2270 </desc> 
 </programme> 
 <programme start="20220110011738 +0000" stop="20220112201738 +0000" channel="TPAIN.us"> 
 <title lang="en"> It's about DRIVE rig wheel book </title> 
 <desc lang="en"> Started: 8:17PM 
 Playing: Forza Horizon 5 
-Viewers: 1489 </desc> 
+Viewers: 1388 </desc> 
 </programme> 
 <programme start="20220110032502 +0000" stop="20220112222502 +0000" channel="COREANOLOCOLIVE.us"> 
 <title lang="en"> Coreano Loco vuelve a GTA Roleplay - Dovux Life </title> 
 <desc lang="en"> Started: 10:25PM 
 Playing: Grand Theft Auto V 
-Viewers: 848 </desc> 
+Viewers: 615 </desc> 
+</programme> 
+<programme start="20220110063557 +0000" stop="20220113013557 +0000" channel="reina.us"> 
+<title lang="en"> MONA SANCHEZ - BALLA - NOPiXEL WL </title> 
+<desc lang="en"> Started: 1:35AM 
+Playing: Grand Theft Auto V 
+Viewers: 42 </desc> 
 </programme> 
