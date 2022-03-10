@@ -1,7 +1,21 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<programme start="20220310000000 +0000" stop="20220313095822 +0000" channel="clearepg.us"> 
+<channel id="dasmehdi.us"> 
+<display-name>dasmehdi</display-name> 
+</channel> 
+<channel id="vaderlive.us"> 
+<display-name>vaderlive</display-name> 
+</channel> 
+<programme start="20220310000000 +0000" stop="20220313105822 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
+</programme> 
+<programme start="20220310000000 +0000" stop="20220313105825 +0000" channel="dasmehdi.us"> 
+<title lang="en"> Cpl Knight Investigation Season </title> 
+<desc lang="en"> dasmehdi - Corporal Brian Knight hits the streets full time and he's ready to kick back off raid season. Let's see what cases he dives into next #pcgaming #gaming... </desc> 
+</programme> 
+<programme start="20220310000000 +0000" stop="20220313105830 +0000" channel="vaderlive.us"> 
+<title lang="en"> Eugene - NoPixel - GTARP </title> 
+<desc lang="en"> vaderlive - GTAV ROLEPLAY ON NOPIXEL </desc> 
 </programme> 
