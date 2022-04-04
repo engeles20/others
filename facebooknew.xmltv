@@ -1,7 +1,21 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<programme start="20220404000000 +0000" stop="20220407095822 +0000" channel="clearepg.us"> 
+<channel id="dasmehdi.us"> 
+<display-name>dasmehdi</display-name> 
+</channel> 
+<channel id="vaderlive.us"> 
+<display-name>vaderlive</display-name> 
+</channel> 
+<programme start="20220404000000 +0000" stop="20220407105822 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
+</programme> 
+<programme start="20220404000000 +0000" stop="20220407105827 +0000" channel="dasmehdi.us"> 
+<title lang="en"> Detective Brian Knight on Raid Season on GTA Roleplay Mod NoPixel </title> 
+<desc lang="en"> dasmehdi - Detective Brian Knight continues Raid Season After a landmark ruling that leads to the raid of Eddie Marshall's properties the night before, Knight and... </desc> 
+</programme> 
+<programme start="20220404000000 +0000" stop="20220407105831 +0000" channel="vaderlive.us"> 
+<title lang="en"> Eugene - GTARP - NoPixel </title> 
+<desc lang="en"> vaderlive - GTAV ROLEPLAY ON NOPIXEL </desc> 
 </programme> 
