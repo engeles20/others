@@ -1,7 +1,28 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<programme start="20220408000000 +0000" stop="20220411095822 +0000" channel="clearepg.us"> 
+<channel id="dasmehdi.us"> 
+<display-name>dasmehdi</display-name> 
+</channel> 
+<channel id="aarononair.us"> 
+<display-name>aarononair</display-name> 
+</channel> 
+<channel id="vaderlive.us"> 
+<display-name>vaderlive</display-name> 
+</channel> 
+<programme start="20220408000000 +0000" stop="20220411105822 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
+</programme> 
+<programme start="20220408000000 +0000" stop="20220411105826 +0000" channel="dasmehdi.us"> 
+<title lang="en"> Lt Brian Knight Investigates on GTA Roleplay Mod NoPixel </title> 
+<desc lang="en"> dasmehdi - Lt Brian Knight Investigates The investigations continue throughout the city, with the Tuner Shop, Lost Compound and many other facilities looking for... </desc> 
+</programme> 
+<programme start="20220408000000 +0000" stop="20220411105830 +0000" channel="aarononair.us"> 
+<title lang="en"> Sr. Deputy Dan Faily - NoPixel - FB.GG Partner - @aarononair_ </title> 
+<desc lang="en"> aarononair - Join Sr. Deputy Dan Faily as he patrols the streets of Los Santos on #NoPixel -------Follow-------- https:--twitter.com-aarononair_... </desc> 
+</programme> 
+<programme start="20220408000000 +0000" stop="20220411105831 +0000" channel="vaderlive.us"> 
+<title lang="en"> Eugene - GTARP - NoPixel </title> 
+<desc lang="en"> vaderlive - GTAV ROLEPLAY ON NOPIXEL </desc> 
 </programme> 
