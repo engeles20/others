@@ -1,7 +1,21 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<programme start="20220411000000 +0000" stop="20220414095823 +0000" channel="clearepg.us"> 
+<channel id="dasmehdi.us"> 
+<display-name>dasmehdi</display-name> 
+</channel> 
+<channel id="vaderlive.us"> 
+<display-name>vaderlive</display-name> 
+</channel> 
+<programme start="20220411000000 +0000" stop="20220414105823 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
+</programme> 
+<programme start="20220411000000 +0000" stop="20220414105826 +0000" channel="dasmehdi.us"> 
+<title lang="en"> Lt Brian Knight follows the Rabbit on GTA Roleplay Mod NoPixel </title> 
+<desc lang="en"> dasmehdi - Lt Brian Knight follows the Rabbit Lt Knight goes deeper into the rabbit hole as he uncovers the BBMC and Cerberus connections to Michael Simone. As the... </desc> 
+</programme> 
+<programme start="20220411000000 +0000" stop="20220414105831 +0000" channel="vaderlive.us"> 
+<title lang="en"> Eugene - GTARP - NoPixel </title> 
+<desc lang="en"> vaderlive - GTAV ROLEPLAY ON NOPIXEL </desc> 
 </programme> 
