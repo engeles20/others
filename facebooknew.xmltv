@@ -1,7 +1,28 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<programme start="20220419000000 +0000" stop="20220422095822 +0000" channel="clearepg.us"> 
+<channel id="dasmehdi.us"> 
+<display-name>dasmehdi</display-name> 
+</channel> 
+<channel id="aarononair.us"> 
+<display-name>aarononair</display-name> 
+</channel> 
+<channel id="vaderlive.us"> 
+<display-name>vaderlive</display-name> 
+</channel> 
+<programme start="20220419000000 +0000" stop="20220422105822 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
+</programme> 
+<programme start="20220419000000 +0000" stop="20220422105826 +0000" channel="dasmehdi.us"> 
+<title lang="en"> Sgt Brian Knight does Big NoPixel Update on GTA Roleplay Mod NoPixel </title> 
+<desc lang="en"> dasmehdi - Sgt Brian Knight does Big NoPixel Update Sgt Brian Knight jumps into the biggest update on NoPixel since last year. Let's dive on in and check out all... </desc> 
+</programme> 
+<programme start="20220419000000 +0000" stop="20220422105830 +0000" channel="aarononair.us"> 
+<title lang="en"> Sr. Deputy Dan Faily - NoPixel - FB.GG Partner - @aarononair_ </title> 
+<desc lang="en"> aarononair - Join Sr. Deputy Dan Faily as he patrols the streets of Los Santos on #NoPixel -------Follow-------- https:--twitter.com-aarononair_... </desc> 
+</programme> 
+<programme start="20220419000000 +0000" stop="20220422105831 +0000" channel="vaderlive.us"> 
+<title lang="en"> UPDATE DAY Eugene - GTARP - NoPixel </title> 
+<desc lang="en"> vaderlive - GTAV ROLEPLAY ON NOPIXEL </desc> 
 </programme> 
