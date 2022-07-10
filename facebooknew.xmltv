@@ -1,7 +1,14 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<programme start="20220710000000 +0000" stop="20220713085815 +0000" channel="clearepg.us"> 
+<channel id="vaderlive.us"> 
+<display-name>vaderlive</display-name> 
+</channel> 
+<programme start="20220710000000 +0000" stop="20220713091315 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
+</programme> 
+<programme start="20220710000000 +0000" stop="20220713091321 +0000" channel="vaderlive.us"> 
+<title lang="en"> Vader - GTAVRP - Eugene - Chang Gang - Facebook - By Vader - . </title> 
+<desc lang="en"> vaderlive - Vader - GTAVRP - Eugene - Chang Gang - Facebook - By Vader - . </desc> 
 </programme> 
