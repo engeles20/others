@@ -1,6 +1,9 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
+<channel id="kemony.us"> 
+<display-name>kemony</display-name> 
+</channel> 
 <channel id="protay10.us"> 
 <display-name>protay10</display-name> 
 </channel> 
@@ -10,11 +13,17 @@
 <channel id="mattrp.us"> 
 <display-name>mattrp</display-name> 
 </channel> 
-<channel id="africansnowball.us"> 
-<display-name>africansnowball</display-name> 
-</channel> 
 <channel id="ladyhope.us"> 
 <display-name>ladyhope</display-name> 
+</channel> 
+<channel id="hotted89.us"> 
+<display-name>hotted89</display-name> 
+</channel> 
+<channel id="aus24.us"> 
+<display-name>aus24</display-name> 
+</channel> 
+<channel id="omie.us"> 
+<display-name>omie</display-name> 
 </channel> 
 <channel id="thechief1114.us"> 
 <display-name>thechief1114</display-name> 
@@ -28,8 +37,8 @@
 <channel id="reklez.us"> 
 <display-name>reklez</display-name> 
 </channel> 
-<channel id="hoss.us"> 
-<display-name>hoss</display-name> 
+<channel id="simo.us"> 
+<display-name>simo</display-name> 
 </channel> 
 <channel id="fourmilli.us"> 
 <display-name>fourmilli</display-name> 
@@ -61,115 +70,133 @@
 <channel id="DrDisrespect.us"> 
 <display-name>DrDisrespect</display-name> 
 </channel> 
-<programme start="20220711000000 +0000" stop="20220714005800 +0000" channel="clearepg.us"> 
+<programme start="20220711000000 +0000" stop="20220714011300 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
 </programme> 
+<programme start="20220711060817 +0000" stop="20220714010817 +0000" channel="kemony.us"> 
+<title lang="en"> Alice N0T Meth Queen Watson - Hydra Reddit Meth ERP Socials - @Kemony </title> 
+<desc lang="en"> Started: 1:08AM 
+Playing: Grand Theft Auto V 
+Viewers: 18 </desc> 
+</programme> 
 <programme start="20220710175932 +0000" stop="20220713125932 +0000" channel="protay10.us"> 
-<title lang="en"> Phantom - Hydra - NoPixel WL - discord twitter </title> 
+<title lang="en"> 429 Jacob Specter - LSPD - NoPixel WL - discord twitter </title> 
 <desc lang="en"> Started: 12:59PM 
 Playing: Grand Theft Auto V 
-Viewers: 111 </desc> 
+Viewers: 107 </desc> 
 </programme> 
 <programme start="20220710200657 +0000" stop="20220713150657 +0000" channel="penta.us"> 
 <title lang="en"> ive been drinking </title> 
 <desc lang="en"> Started: 3:06PM 
 Playing: Golf Gang 
-Viewers: 5118 </desc> 
+Viewers: 4973 </desc> 
 </programme> 
 <programme start="20220711020627 +0000" stop="20220713210627 +0000" channel="mattrp.us"> 
 <title lang="en"> Trooper Ripley - "K-9 Unit" - NoPixel WL - discord.gg-MattRP </title> 
 <desc lang="en"> Started: 9:06PM 
 Playing: Grand Theft Auto V 
-Viewers: 352 </desc> 
-</programme> 
-<programme start="20220710221956 +0000" stop="20220713171956 +0000" channel="africansnowball.us"> 
-<title lang="en"> - Corporal Carter - LSPD - NoPixel WL - </title> 
-<desc lang="en"> Started: 5:19PM 
-Playing: Grand Theft Auto V 
-Viewers: 407 </desc> 
+Viewers: 346 </desc> 
 </programme> 
 <programme start="20220711020411 +0000" stop="20220713210411 +0000" channel="ladyhope.us"> 
-<title lang="en"> Izzy Carrington - Lost MC - Yokai - NoPixel WL - expressvpn socials TwitchCon #AD </title> 
+<title lang="en"> 413 Sgt L. Pond - LSPD-SCU-FTI-MOTOR-AIR-1-SRU()-K9(SoonTM) - NoPixel WL - expressvpn socials TwitchCon #AD </title> 
 <desc lang="en"> Started: 9:04PM 
 Playing: Grand Theft Auto V 
-Viewers: 519 </desc> 
+Viewers: 530 </desc> 
+</programme> 
+<programme start="20220711060907 +0000" stop="20220714010907 +0000" channel="hotted89.us"> 
+<title lang="en"> LT Matthew Espinoz - Nopixel WL - pc discord twitter </title> 
+<desc lang="en"> Started: 1:09AM 
+Playing: Grand Theft Auto V 
+Viewers: 17 </desc> 
+</programme> 
+<programme start="20220711060013 +0000" stop="20220714010013 +0000" channel="aus24.us"> 
+<title lang="en"> Captain Davenport - LSPD - NoPixel - #Harmony </title> 
+<desc lang="en"> Started: 1:00AM 
+Playing: Grand Theft Auto V 
+Viewers: 35 </desc> 
+</programme> 
+<programme start="20220711003006 +0000" stop="20220713193006 +0000" channel="omie.us"> 
+<title lang="en"> marty banks - nopixel </title> 
+<desc lang="en"> Started: 7:30PM 
+Playing: Grand Theft Auto V 
+Viewers: 1688 </desc> 
 </programme> 
 <programme start="20220710202517 +0000" stop="20220713152517 +0000" channel="thechief1114.us"> 
 <title lang="en"> Fingle Danathon (DAY 3) </title> 
 <desc lang="en"> Started: 3:25PM 
 Playing: Golf Gang 
-Viewers: 1604 </desc> 
+Viewers: 1559 </desc> 
 </programme> 
 <programme start="20220711023140 +0000" stop="20220713213140 +0000" channel="afro.us"> 
 <title lang="en"> Gary: Rent A Cop - DoC Training DAY 1 - NoPixel - Discord TikTok </title> 
 <desc lang="en"> Started: 9:31PM 
 Playing: Grand Theft Auto V 
-Viewers: 190 </desc> 
+Viewers: 387 </desc> 
 </programme> 
 <programme start="20220711045317 +0000" stop="20220713235317 +0000" channel="theeazylife.us"> 
 <title lang="en"> Ty - GSF - Nopixel WL - </title> 
 <desc lang="en"> Started: 11:53PM 
 Playing: Grand Theft Auto V 
-Viewers: 37 </desc> 
+Viewers: 36 </desc> 
 </programme> 
 <programme start="20220711030105 +0000" stop="20220713220105 +0000" channel="reklez.us"> 
 <title lang="en"> Parker - Solo Cadet 656 - discord waddup </title> 
 <desc lang="en"> Started: 10:01PM 
 Playing: Grand Theft Auto V 
-Viewers: 180 </desc> 
+Viewers: 116 </desc> 
 </programme> 
-<programme start="20220710214016 +0000" stop="20220713164016 +0000" channel="hoss.us"> 
-<title lang="en"> Chip Wheeler - BBMC - nopixel discord socials </title> 
-<desc lang="en"> Started: 4:40PM 
+<programme start="20220711060039 +0000" stop="20220714010039 +0000" channel="simo.us"> 
+<title lang="en"> Reggie Might - Chill day - Seaside - NoPixel WL </title> 
+<desc lang="en"> Started: 1:00AM 
 Playing: Grand Theft Auto V 
-Viewers: 573 </desc> 
+Viewers: 370 </desc> 
 </programme> 
 <programme start="20220711041749 +0000" stop="20220713231749 +0000" channel="fourmilli.us"> 
 <title lang="en"> BRAD BETTINGTON III PAWNHUB MARKETER - NBC - Road to Partner - NP WL - twitter </title> 
 <desc lang="en"> Started: 11:17PM 
 Playing: Grand Theft Auto V 
-Viewers: 370 </desc> 
+Viewers: 274 </desc> 
 </programme> 
 <programme start="20220710231609 +0000" stop="20220713181609 +0000" channel="mikethebard.us"> 
 <title lang="en"> Hubcap Jones - NoPixel WL - BBMCA - Burger Shot Manager </title> 
 <desc lang="en"> Started: 6:16PM 
 Playing: Grand Theft Auto V 
-Viewers: 241 </desc> 
+Viewers: 257 </desc> 
 </programme> 
 <programme start="20220710175920 +0000" stop="20220713125920 +0000" channel="summit1g.us"> 
 <title lang="en"> chillin. gfuel merch - @summit1g </title> 
 <desc lang="en"> Started: 12:59PM 
 Playing: DayZ 
-Viewers: 23979 </desc> 
+Viewers: 23783 </desc> 
 </programme> 
 <programme start="20220711014401 +0000" stop="20220713204401 +0000" channel="TPAIN.us"> 
 <title lang="en"> IM BACK LIKE BLUE PEPSI WELCOME BACK TWITCHES </title> 
 <desc lang="en"> Started: 8:44PM 
 Playing: Overwatch 
-Viewers: 1236 </desc> 
+Viewers: 1219 </desc> 
 </programme> 
-<programme start="20220711000000 +0000" stop="20220714005814 +0000" channel="Sykkuno .us"> 
+<programme start="20220711000000 +0000" stop="20220714011312 +0000" channel="Sykkuno .us"> 
 <title lang="en"> Sykkuno  </title> 
 <desc lang="en"> Sykkuno - YouTube </desc> 
 </programme> 
-<programme start="20220711000000 +0000" stop="20220714005814 +0000" channel="Live on Patrol.us"> 
+<programme start="20220711000000 +0000" stop="20220714011312 +0000" channel="Live on Patrol.us"> 
 <title lang="en"> Live on Patrol </title> 
 <desc lang="en"> Live on Patrol - YouTube </desc> 
 </programme> 
-<programme start="20220711000000 +0000" stop="20220714005814 +0000" channel="Valkyrae.us"> 
+<programme start="20220711000000 +0000" stop="20220714011312 +0000" channel="Valkyrae.us"> 
 <title lang="en"> Valkyrae </title> 
 <desc lang="en"> Valkyrae - YouTube </desc> 
 </programme> 
-<programme start="20220711000000 +0000" stop="20220714005814 +0000" channel="TimTheTatman.us"> 
+<programme start="20220711000000 +0000" stop="20220714011312 +0000" channel="TimTheTatman.us"> 
 <title lang="en"> TimTheTatman </title> 
 <desc lang="en"> TimTheTatman - YouTube </desc> 
 </programme> 
-<programme start="20220711000000 +0000" stop="20220714005814 +0000" channel="WashingtonPost.us"> 
+<programme start="20220711000000 +0000" stop="20220714011312 +0000" channel="WashingtonPost.us"> 
 <title lang="en"> WashingtonPost </title> 
 <desc lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD - YouTube </desc> 
 </programme> 
-<programme start="20220711000000 +0000" stop="20220714005814 +0000" channel="DrDisrespect.us"> 
+<programme start="20220711000000 +0000" stop="20220714011312 +0000" channel="DrDisrespect.us"> 
 <title lang="en"> DrDisrespect </title> 
 <desc lang="en"> DrDisRespect - YouTube </desc> 
 </programme> 
