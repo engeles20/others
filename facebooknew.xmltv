@@ -1,7 +1,21 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<programme start="20220806000000 +0000" stop="20220809122212 +0000" channel="clearepg.us"> 
+<channel id="dasmehdi.us"> 
+<display-name>dasmehdi</display-name> 
+</channel> 
+<channel id="vaderlive.us"> 
+<display-name>vaderlive</display-name> 
+</channel> 
+<programme start="20220806000000 +0000" stop="20220809122656 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
+</programme> 
+<programme start="20220806000000 +0000" stop="20220809122700 +0000" channel="dasmehdi.us"> 
+<title lang="en"> #242526 </title> 
+<desc lang="en"> dasmehdi - #242526 </desc> 
+</programme> 
+<programme start="20220806000000 +0000" stop="20220809122702 +0000" channel="vaderlive.us"> 
+<title lang="en"> #242526 </title> 
+<desc lang="en"> vaderlive - #242526 </desc> 
 </programme> 
