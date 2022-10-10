@@ -1,12 +1,6 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<channel id="koil.us"> 
-<display-name>koil</display-name> 
-</channel> 
-<channel id="curtisryan.us"> 
-<display-name>curtisryan</display-name> 
-</channel> 
 <channel id="penta.us"> 
 <display-name>penta</display-name> 
 </channel> 
@@ -16,11 +10,11 @@
 <channel id="moosebrother.us"> 
 <display-name>moosebrother</display-name> 
 </channel> 
-<channel id="kevinramm.us"> 
-<display-name>kevinramm</display-name> 
-</channel> 
 <channel id="theeazylife.us"> 
 <display-name>theeazylife</display-name> 
+</channel> 
+<channel id="kevinramm.us"> 
+<display-name>kevinramm</display-name> 
 </channel> 
 <channel id="franktactics.us"> 
 <display-name>franktactics</display-name> 
@@ -40,9 +34,6 @@
 <channel id="amouranth.us"> 
 <display-name>amouranth</display-name> 
 </channel> 
-<channel id="Melipastel.us"> 
-<display-name>Melipastel</display-name> 
-</channel> 
 <channel id="Sykkuno .us"> 
 <display-name>Sykkuno </display-name> 
 </channel> 
@@ -52,72 +43,60 @@
 <channel id="Valkyrae.us"> 
 <display-name>Valkyrae</display-name> 
 </channel> 
+<channel id="Myth.us"> 
+<display-name>Myth</display-name> 
+</channel> 
 <channel id="TimTheTatman.us"> 
 <display-name>TimTheTatman</display-name> 
-</channel> 
-<channel id="WashingtonPost.us"> 
-<display-name>WashingtonPost</display-name> 
 </channel> 
 <channel id="fuslie.us"> 
 <display-name>fuslie</display-name> 
 </channel> 
-<channel id="Myth.us"> 
-<display-name>Myth</display-name> 
+<channel id="WashingtonPost.us"> 
+<display-name>WashingtonPost</display-name> 
 </channel> 
 <channel id="DrDisrespect.us"> 
 <display-name>DrDisrespect</display-name> 
 </channel> 
-<programme start="20221009000000 +0000" stop="20221012221300 +0000" channel="clearepg.us"> 
+<programme start="20221009000000 +0000" stop="20221012222800 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
-</programme> 
-<programme start="20221009224738 +0000" stop="20221012174738 +0000" channel="koil.us"> 
-<title lang="en"> frenes j frener - nopixel </title> 
-<desc lang="en"> Started: 5:47PM 
-Playing: Grand Theft Auto V 
-Viewers: 7096 </desc> 
-</programme> 
-<programme start="20221009201810 +0000" stop="20221012151810 +0000" channel="curtisryan.us"> 
-<title lang="en"> Curtis - Chang Gang - hbomax twitter </title> 
-<desc lang="en"> Started: 3:18PM 
-Playing: Grand Theft Auto V 
-Viewers: 933 </desc> 
 </programme> 
 <programme start="20221009200533 +0000" stop="20221012150533 +0000" channel="penta.us"> 
 <title lang="en"> NoPixel - Wranglin' </title> 
 <desc lang="en"> Started: 3:05PM 
 Playing: Grand Theft Auto V 
-Viewers: 9984 </desc> 
+Viewers: 10525 </desc> 
 </programme> 
 <programme start="20221009190054 +0000" stop="20221012140054 +0000" channel="mattrp.us"> 
 <title lang="en"> Spooky Subathon - Trooper Jack (Not Matt) Ripley - Amazon Gift Card Giveaway - ga - NoPixel RP </title> 
 <desc lang="en"> Started: 2:00PM 
 Playing: Grand Theft Auto V 
-Viewers: 626 </desc> 
+Viewers: 760 </desc> 
 </programme> 
 <programme start="20221010020813 +0000" stop="20221012210813 +0000" channel="moosebrother.us"> 
 <title lang="en"> NoPixel WL - Bloom - Video Gamer Boy - hellofresh </title> 
 <desc lang="en"> Started: 9:08PM 
 Playing: Grand Theft Auto V 
-Viewers: 842 </desc> 
-</programme> 
-<programme start="20221009232749 +0000" stop="20221012182749 +0000" channel="kevinramm.us"> 
-<title lang="en"> Back - Kevin Ram - NOPIXEL WL - YouTube Clips </title> 
-<desc lang="en"> Started: 6:27PM 
-Playing: Grand Theft Auto V 
-Viewers: 14 </desc> 
+Viewers: 995 </desc> 
 </programme> 
 <programme start="20221010002608 +0000" stop="20221012192608 +0000" channel="theeazylife.us"> 
 <title lang="en"> Ty Back In The SS - The Dons - Nopixel WL - sub prime </title> 
 <desc lang="en"> Started: 7:26PM 
 Playing: Grand Theft Auto V 
-Viewers: 57 </desc> 
+Viewers: 55 </desc> 
+</programme> 
+<programme start="20221009232749 +0000" stop="20221012182749 +0000" channel="kevinramm.us"> 
+<title lang="en"> Back - Kevin Ram - NOPIXEL WL - YouTube Clips </title> 
+<desc lang="en"> Started: 6:27PM 
+Playing: Grand Theft Auto V 
+Viewers: 21 </desc> 
 </programme> 
 <programme start="20221010015528 +0000" stop="20221012205528 +0000" channel="franktactics.us"> 
 <title lang="en"> Nomad - NoPixel WL - REDLINE </title> 
 <desc lang="en"> Started: 8:55PM 
 Playing: Grand Theft Auto V 
-Viewers: 72 </desc> 
+Viewers: 96 </desc> 
 </programme> 
 <programme start="20221010005259 +0000" stop="20221012195259 +0000" channel="kriptedaus.us"> 
 <title lang="en"> Home Alone pt.III - Antonio Rodrigues - BBMC - NoPixel WL </title> 
@@ -129,61 +108,55 @@ Viewers: 272 </desc>
 <title lang="en"> Hubcap Jones - NoPixel WL - BBMC Hangaround - Love Fist </title> 
 <desc lang="en"> Started: 6:29PM 
 Playing: Grand Theft Auto V 
-Viewers: 302 </desc> 
+Viewers: 284 </desc> 
 </programme> 
 <programme start="20221009034246 +0000" stop="20221011224246 +0000" channel="trainwreckstv.us"> 
 <title lang="en"> best roadhog world- twitter - instagram - discord - youtube </title> 
 <desc lang="en"> Started: 10:42PM 
 Playing: Overwatch 2 
-Viewers: 15379 </desc> 
+Viewers: 16043 </desc> 
 </programme> 
 <programme start="20221009202232 +0000" stop="20221012152232 +0000" channel="summit1g.us"> 
 <title lang="en"> chillin - gfuel merch - @summit1g </title> 
 <desc lang="en"> Started: 3:22PM 
 Playing: Overwatch 2 
-Viewers: 27921 </desc> 
+Viewers: 28821 </desc> 
 </programme> 
 <programme start="20221009115453 +0000" stop="20221012065453 +0000" channel="amouranth.us"> 
 <title lang="en"> 🟥POOL STREAM SOON- stalker watch😬‼️🟥s for socials girls </title> 
 <desc lang="en"> Started: 6:54AM 
 Playing: Just Chatting 
-Viewers: 7173 </desc> 
+Viewers: 7272 </desc> 
 </programme> 
-<programme start="20221010014447 +0000" stop="20221012204447 +0000" channel="Melipastel.us"> 
-<title lang="en"> ❤ KOREAN BBQ WITH THE MODS ❤ @melipastel1- discord - tc2022 </title> 
-<desc lang="en"> Started: 8:44PM 
-Playing: Just Chatting 
-Viewers: 149 </desc> 
-</programme> 
-<programme start="20221009000000 +0000" stop="20221012221315 +0000" channel="Sykkuno .us"> 
+<programme start="20221009000000 +0000" stop="20221012222815 +0000" channel="Sykkuno .us"> 
 <title lang="en"> Sykkuno - YouTube </title> 
 <desc lang="en"> Sykkuno - YouTube </desc> 
 </programme> 
-<programme start="20221009000000 +0000" stop="20221012221315 +0000" channel="Live on Patrol.us"> 
+<programme start="20221009000000 +0000" stop="20221012222815 +0000" channel="Live on Patrol.us"> 
 <title lang="en"> Live on Patrol - YouTube </title> 
 <desc lang="en"> Live on Patrol - YouTube </desc> 
 </programme> 
-<programme start="20221009000000 +0000" stop="20221012221315 +0000" channel="Valkyrae.us"> 
+<programme start="20221009000000 +0000" stop="20221012222815 +0000" channel="Valkyrae.us"> 
 <title lang="en"> Valkyrae - YouTube </title> 
 <desc lang="en"> Valkyrae - YouTube </desc> 
 </programme> 
-<programme start="20221009000000 +0000" stop="20221012221315 +0000" channel="TimTheTatman.us"> 
-<title lang="en"> TimTheTatman - YouTube </title> 
-<desc lang="en"> TimTheTatman - YouTube </desc> 
-</programme> 
-<programme start="20221009000000 +0000" stop="20221012221315 +0000" channel="WashingtonPost.us"> 
-<title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD - YouTube </title> 
-<desc lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD - YouTube </desc> 
-</programme> 
-<programme start="20221009000000 +0000" stop="20221012221315 +0000" channel="fuslie.us"> 
-<title lang="en"> fuslie - YouTube </title> 
-<desc lang="en"> fuslie - YouTube </desc> 
-</programme> 
-<programme start="20221009000000 +0000" stop="20221012221315 +0000" channel="Myth.us"> 
+<programme start="20221009000000 +0000" stop="20221012222815 +0000" channel="Myth.us"> 
 <title lang="en"> Myth - YouTube </title> 
 <desc lang="en"> Myth - YouTube </desc> 
 </programme> 
-<programme start="20221009000000 +0000" stop="20221012221315 +0000" channel="DrDisrespect.us"> 
+<programme start="20221009000000 +0000" stop="20221012222815 +0000" channel="TimTheTatman.us"> 
+<title lang="en"> TimTheTatman - YouTube </title> 
+<desc lang="en"> TimTheTatman - YouTube </desc> 
+</programme> 
+<programme start="20221009000000 +0000" stop="20221012222815 +0000" channel="fuslie.us"> 
+<title lang="en"> fuslie - YouTube </title> 
+<desc lang="en"> fuslie - YouTube </desc> 
+</programme> 
+<programme start="20221009000000 +0000" stop="20221012222815 +0000" channel="WashingtonPost.us"> 
+<title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD - YouTube </title> 
+<desc lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD - YouTube </desc> 
+</programme> 
+<programme start="20221009000000 +0000" stop="20221012222815 +0000" channel="DrDisrespect.us"> 
 <title lang="en"> DrDisRespect - YouTube} </title> 
 <desc lang="en"> DrDisRespect - YouTube </desc> 
 </programme> 
