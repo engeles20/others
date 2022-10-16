@@ -1,9 +1,6 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<channel id="kate.us"> 
-<display-name>kate</display-name> 
-</channel> 
 <channel id="bloomonline.us"> 
 <display-name>bloomonline</display-name> 
 </channel> 
@@ -18,6 +15,9 @@
 </channel> 
 <channel id="rerolldota.us"> 
 <display-name>rerolldota</display-name> 
+</channel> 
+<channel id="curvyelephant.us"> 
+<display-name>curvyelephant</display-name> 
 </channel> 
 <channel id="hotted89.us"> 
 <display-name>hotted89</display-name> 
@@ -34,14 +34,17 @@
 <channel id="bucketst.us"> 
 <display-name>bucketst</display-name> 
 </channel> 
+<channel id="bigskenger.us"> 
+<display-name>bigskenger</display-name> 
+</channel> 
 <channel id="reklez.us"> 
 <display-name>reklez</display-name> 
 </channel> 
+<channel id="kongfue.us"> 
+<display-name>kongfue</display-name> 
+</channel> 
 <channel id="mikethebard.us"> 
 <display-name>mikethebard</display-name> 
-</channel> 
-<channel id="moistcr1tikal.us"> 
-<display-name>moistcr1tikal</display-name> 
 </channel> 
 <channel id="Melipastel.us"> 
 <display-name>Melipastel</display-name> 
@@ -76,15 +79,9 @@
 <channel id="DrDisrespect.us"> 
 <display-name>DrDisrespect</display-name> 
 </channel> 
-<programme start="20221016000000 +0000" stop="20221019012800 +0000" channel="clearepg.us"> 
+<programme start="20221016000000 +0000" stop="20221019014300 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
-</programme> 
-<programme start="20221015195024 +0000" stop="20221018145024 +0000" channel="kate.us"> 
-<title lang="en"> [DROPS ON] UNCAPPED SUBATHON DAY 25 - instagram nord </title> 
-<desc lang="en"> Started: 2:50PM 
-Playing: Overwatch 2 
-Viewers: 557 </desc> 
 </programme> 
 <programme start="20221016055738 +0000" stop="20221019005738 +0000" channel="bloomonline.us"> 
 <title lang="en"> - Deputy Huell Houze - PBSO - NoPixel WL - </title> 
@@ -96,121 +93,133 @@ Viewers: 3 </desc>
 <title lang="en"> *DROPS ENABLED* GETTING PLAT TONIGHT (COPIUM) OR DEFEAT gachiPls RIP gachiPls - socials </title> 
 <desc lang="en"> Started: 4:12PM 
 Playing: Overwatch 2 
-Viewers: 954 </desc> 
+Viewers: 903 </desc> 
 </programme> 
 <programme start="20221014231707 +0000" stop="20221017181707 +0000" channel="penta.us"> 
 <title lang="en"> NoPixel - MIKE BLOCK SUPER WANTED </title> 
 <desc lang="en"> Started: 6:17PM 
 Playing: Grand Theft Auto V 
-Viewers: 7934 </desc> 
+Viewers: 7846 </desc> 
 </programme> 
 <programme start="20221015130655 +0000" stop="20221018080655 +0000" channel="crystalst.us"> 
 <title lang="en"> Crystal Clear - NoPixel </title> 
 <desc lang="en"> Started: 8:06AM 
 Playing: Grand Theft Auto V 
-Viewers: 1041 </desc> 
+Viewers: 1119 </desc> 
 </programme> 
 <programme start="20221016055843 +0000" stop="20221019005843 +0000" channel="rerolldota.us"> 
 <title lang="en"> Nopixel WL - Sgt. Lea Nova - Twitch Partner Anniversary 24th Ouuu Baby </title> 
 <desc lang="en"> Started: 12:58AM 
 Playing: Grand Theft Auto V 
-Viewers: 146 </desc> 
+Viewers: 129 </desc> 
+</programme> 
+<programme start="20221016062955 +0000" stop="20221019012955 +0000" channel="curvyelephant.us"> 
+<title lang="en"> Matt Rhodes - NoPixel WL - discord </title> 
+<desc lang="en"> Started: 1:29AM 
+Playing: Grand Theft Auto V 
+Viewers: 242 </desc> 
 </programme> 
 <programme start="20221016062656 +0000" stop="20221019012656 +0000" channel="hotted89.us"> 
 <title lang="en"> LT. Matthew Espinoz - Nopixel WL - pc discord twitter </title> 
 <desc lang="en"> Started: 1:26AM 
 Playing: Grand Theft Auto V 
-Viewers: 5 </desc> 
+Viewers: 39 </desc> 
 </programme> 
 <programme start="20221016061529 +0000" stop="20221019011529 +0000" channel="aus24.us"> 
 <title lang="en"> Davenport - LSPD - NoPixel - #Harmony </title> 
 <desc lang="en"> Started: 1:15AM 
 Playing: Grand Theft Auto V 
-Viewers: 75 </desc> 
+Viewers: 90 </desc> 
 </programme> 
 <programme start="20221016005157 +0000" stop="20221018195157 +0000" channel="thechief1114.us"> 
-<title lang="en"> winning </title> 
+<title lang="en"> 1 win today </title> 
 <desc lang="en"> Started: 7:51PM 
 Playing: Overwatch 2 
-Viewers: 1064 </desc> 
+Viewers: 1011 </desc> 
 </programme> 
 <programme start="20221015224132 +0000" stop="20221018174132 +0000" channel="zapremetv.us"> 
 <title lang="en"> 🟢 Taking over the Weed Game 🟢 We Taking LEAD 🟢 Kai Alexander 🟢 GSF 🟢 Nopixel WL 🟢 Twitter 🟢 Discord 🟢 </title> 
 <desc lang="en"> Started: 5:41PM 
 Playing: Grand Theft Auto V 
-Viewers: 43 </desc> 
+Viewers: 35 </desc> 
 </programme> 
 <programme start="20221016060249 +0000" stop="20221019010249 +0000" channel="bucketst.us"> 
 <title lang="en"> Gheto Kaiba - RUST-Redline - NoPixel WL - tiktok NordVPN #ad </title> 
 <desc lang="en"> Started: 1:02AM 
 Playing: Grand Theft Auto V 
-Viewers: 257 </desc> 
+Viewers: 307 </desc> 
+</programme> 
+<programme start="20221016064142 +0000" stop="20221019014142 +0000" channel="bigskenger.us"> 
+<title lang="en"> ZACEED - NOPIXEL WL - SOCIALS </title> 
+<desc lang="en"> Started: 1:41AM 
+Playing: Grand Theft Auto V 
+Viewers: 4 </desc> 
 </programme> 
 <programme start="20221016031221 +0000" stop="20221018221221 +0000" channel="reklez.us"> 
 <title lang="en"> Chico - Seaside - Nopixel wl - discord waddup </title> 
 <desc lang="en"> Started: 10:12PM 
 Playing: Grand Theft Auto V 
-Viewers: 88 </desc> 
+Viewers: 92 </desc> 
+</programme> 
+<programme start="20221016063954 +0000" stop="20221019013954 +0000" channel="kongfue.us"> 
+<title lang="en"> KJ - Seaside - NoPixel - socials yt memecontest 2k </title> 
+<desc lang="en"> Started: 1:39AM 
+Playing: Grand Theft Auto V 
+Viewers: 2 </desc> 
 </programme> 
 <programme start="20221015230135 +0000" stop="20221018180135 +0000" channel="mikethebard.us"> 
 <title lang="en"> 10 YEARS ON TWITCH - Hubcap Jones - NoPixel WL - BBMC Hangaround - Love Fist </title> 
 <desc lang="en"> Started: 6:01PM 
 Playing: Grand Theft Auto V 
-Viewers: 243 </desc> 
-</programme> 
-<programme start="20221016021559 +0000" stop="20221018211559 +0000" channel="moistcr1tikal.us"> 
-<title lang="en"> grind time </title> 
-<desc lang="en"> Started: 9:15PM 
-Playing: Overwatch 2 
-Viewers: 18987 </desc> 
+Viewers: 286 </desc> 
 </programme> 
 <programme start="20221016042611 +0000" stop="20221018232611 +0000" channel="Melipastel.us"> 
 <title lang="en"> ❤ - DROPS - dva pro :} ❤ @melipastel1 - visit - discord - gift </title> 
 <desc lang="en"> Started: 11:26PM 
 Playing: Overwatch 2 
-Viewers: 139 </desc> 
+Viewers: 104 </desc> 
 </programme> 
 <programme start="20221015215942 +0000" stop="20221018165942 +0000" channel="summit1g.us"> 
 <title lang="en"> chillin. - gfuel merch - @summit1g </title> 
 <desc lang="en"> Started: 4:59PM 
 Playing: Overwatch 2 
-Viewers: 28146 </desc> 
+Viewers: 29601 </desc> 
 </programme> 
 <programme start="20221015162005 +0000" stop="20221018112005 +0000" channel="amouranth.us"> 
 <title lang="en"> DROPS❗️❗️WITH MOISTCRITIKAL❗️❗️for socials </title> 
 <desc lang="en"> Started: 11:20AM 
 Playing: Overwatch 2 
-Viewers: 8366 </desc> 
+Viewers: 8611 </desc> 
 </programme> 
-<programme start="20221016000000 +0000" stop="20221019012816 +0000" channel="Sykkuno .us"> 
+<programme start="20221016000000 +0000" stop="20221019014315 +0000" channel="Sykkuno .us"> 
 <title lang="en"> Sykkuno - YouTube </title> 
 <desc lang="en"> Sykkuno - YouTube </desc> 
 </programme> 
-<programme start="20221016000000 +0000" stop="20221019012816 +0000" channel="Live on Patrol.us"> 
+<programme start="20221016000000 +0000" stop="20221019014315 +0000" channel="Live on Patrol.us"> 
 <title lang="en"> Live on Patrol - YouTube </title> 
 <desc lang="en"> Live on Patrol - YouTube </desc> 
 </programme> 
-<programme start="20221016000000 +0000" stop="20221019012816 +0000" channel="Valkyrae.us"> 
+<programme start="20221016000000 +0000" stop="20221019014315 +0000" channel="Valkyrae.us"> 
 <title lang="en"> Valkyrae - YouTube </title> 
 <desc lang="en"> Valkyrae - YouTube </desc> 
 </programme> 
-<programme start="20221016000000 +0000" stop="20221019012816 +0000" channel="Myth.us"> 
+<programme start="20221016000000 +0000" stop="20221019014315 +0000" channel="Myth.us"> 
 <title lang="en"> Myth - YouTube </title> 
 <desc lang="en"> Myth - YouTube </desc> 
 </programme> 
-<programme start="20221016000000 +0000" stop="20221019012816 +0000" channel="TimTheTatman.us"> 
+<programme start="20221016000000 +0000" stop="20221019014315 +0000" channel="TimTheTatman.us"> 
 <title lang="en"> TimTheTatman - YouTube </title> 
 <desc lang="en"> TimTheTatman - YouTube </desc> 
 </programme> 
-<programme start="20221016000000 +0000" stop="20221019012816 +0000" channel="WashingtonPost.us"> 
+<programme start="20221016000000 +0000" stop="20221019014315 +0000" channel="WashingtonPost.us"> 
 <title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD - YouTube </title> 
 <desc lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD - YouTube </desc> 
 </programme> 
-<programme start="20221016000000 +0000" stop="20221019012816 +0000" channel="fuslie.us"> 
+<programme start="20221016000000 +0000" stop="20221019014315 +0000" channel="fuslie.us"> 
 <title lang="en"> fuslie - YouTube </title> 
 <desc lang="en"> fuslie - YouTube </desc> 
 </programme> 
-<programme start="20221016000000 +0000" stop="20221019012816 +0000" channel="DrDisrespect.us"> 
+<programme start="20221016000000 +0000" stop="20221019014315 +0000" channel="DrDisrespect.us"> 
 <title lang="en"> DrDisRespect - YouTube} </title> 
 <desc lang="en"> DrDisRespect - YouTube </desc> 
 </programme> 
