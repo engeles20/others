@@ -1,11 +1,11 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<channel id="nidas.us"> 
-<display-name>nidas</display-name> 
-</channel> 
 <channel id="shotz.us"> 
 <display-name>shotz</display-name> 
+</channel> 
+<channel id="nidas.us"> 
+<display-name>nidas</display-name> 
 </channel> 
 <channel id="arnie.us"> 
 <display-name>arnie</display-name> 
@@ -43,9 +43,6 @@
 <channel id="flomcnasty_tv.us"> 
 <display-name>flomcnasty_tv</display-name> 
 </channel> 
-<channel id="jayaitch.us"> 
-<display-name>jayaitch</display-name> 
-</channel> 
 <channel id="benni.us"> 
 <display-name>benni</display-name> 
 </channel> 
@@ -58,23 +55,23 @@
 <channel id="deansocool.us"> 
 <display-name>deansocool</display-name> 
 </channel> 
-<channel id="moose_taffy.us"> 
-<display-name>moose_taffy</display-name> 
-</channel> 
 <channel id="khaosadam.us"> 
 <display-name>khaosadam</display-name> 
 </channel> 
+<channel id="moose_taffy.us"> 
+<display-name>moose_taffy</display-name> 
+</channel> 
 <channel id="neloc_.us"> 
 <display-name>neloc_</display-name> 
-</channel> 
-<channel id="cydrose.us"> 
-<display-name>cydrose</display-name> 
 </channel> 
 <channel id="phantomzz_ow.us"> 
 <display-name>phantomzz_ow</display-name> 
 </channel> 
 <channel id="bucketst.us"> 
 <display-name>bucketst</display-name> 
+</channel> 
+<channel id="cydrose.us"> 
+<display-name>cydrose</display-name> 
 </channel> 
 <channel id="kongfue.us"> 
 <display-name>kongfue</display-name> 
@@ -87,6 +84,9 @@
 </channel> 
 <channel id="thestockguy.us"> 
 <display-name>thestockguy</display-name> 
+</channel> 
+<channel id="kitboga.us"> 
+<display-name>kitboga</display-name> 
 </channel> 
 <channel id="Castro_1021.us"> 
 <display-name>Castro_1021</display-name> 
@@ -115,111 +115,105 @@
 <channel id="DrDisrespect.us"> 
 <display-name>DrDisrespect</display-name> 
 </channel> 
-<programme start="20221027000000 +0000" stop="20221030102800 +0000" channel="clearepg.us"> 
+<programme start="20221027000000 +0000" stop="20221030104300 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
-</programme> 
-<programme start="20221027094258 +0000" stop="20221030044258 +0000" channel="nidas.us"> 
-<title lang="en"> Back into the Rat Requiem - specs - socials </title> 
-<desc lang="en"> Started: 4:42AM 
-Playing: A Plague Tale: Requiem 
-Viewers: 636 </desc> 
 </programme> 
 <programme start="20221027150238 +0000" stop="20221030100238 +0000" channel="shotz.us"> 
 <title lang="en"> Boomerthon Day 6 - SGT John Wineo - State Sh*t - VBI GFuel Merch </title> 
 <desc lang="en"> Started: 10:02AM 
 Playing: Grand Theft Auto V 
-Viewers: 1468 </desc> 
+Viewers: 1847 </desc> 
+</programme> 
+<programme start="20221027094258 +0000" stop="20221030044258 +0000" channel="nidas.us"> 
+<title lang="en"> Back into the Rat Requiem - specs - socials </title> 
+<desc lang="en"> Started: 4:42AM 
+Playing: A Plague Tale: Requiem 
+Viewers: 594 </desc> 
 </programme> 
 <programme start="20221027065630 +0000" stop="20221030015630 +0000" channel="arnie.us"> 
 <title lang="en"> woaw - nopixel wl - Hydra Gang - arnie </title> 
 <desc lang="en"> Started: 1:56AM 
 Playing: Grand Theft Auto V 
-Viewers: 439 </desc> 
+Viewers: 429 </desc> 
 </programme> 
 <programme start="20221027085444 +0000" stop="20221030035444 +0000" channel="wolfabelle.us"> 
 <title lang="en"> CANDICE DEFITT NoPixel 3.69 </title> 
 <desc lang="en"> Started: 3:54AM 
 Playing: Grand Theft Auto V 
-Viewers: 1745 </desc> 
+Viewers: 1818 </desc> 
 </programme> 
 <programme start="20221027145203 +0000" stop="20221030095203 +0000" channel="hirona.us"> 
 <title lang="en"> Trooper Copper - Nopixel - me </title> 
 <desc lang="en"> Started: 9:52AM 
 Playing: Grand Theft Auto V 
-Viewers: 1135 </desc> 
+Viewers: 1385 </desc> 
 </programme> 
 <programme start="20221027113433 +0000" stop="20221030063433 +0000" channel="generalemu.us"> 
 <title lang="en"> Interim Chief Malton - NoPixel WL - NVL Bike God (Early Morning Edition) </title> 
 <desc lang="en"> Started: 6:34AM 
 Playing: Grand Theft Auto V 
-Viewers: 236 </desc> 
+Viewers: 257 </desc> 
 </programme> 
 <programme start="20221027144427 +0000" stop="20221030094427 +0000" channel="fiendota.us"> 
 <title lang="en"> RUSSIAN INSURGENCY - Agent Booba - FIB - NoPixel </title> 
 <desc lang="en"> Started: 9:44AM 
 Playing: Grand Theft Auto V 
-Viewers: 70 </desc> 
+Viewers: 68 </desc> 
 </programme> 
 <programme start="20221027132608 +0000" stop="20221030082608 +0000" channel="kinamazing.us"> 
 <title lang="en"> GTA RP - 🚔 - Nopixel </title> 
 <desc lang="en"> Started: 8:26AM 
 Playing: Grand Theft Auto V 
-Viewers: 312 </desc> 
+Viewers: 324 </desc> 
 </programme> 
 <programme start="20221027083904 +0000" stop="20221030033904 +0000" channel="denis3d.us"> 
 <title lang="en"> NoPixel - Gabz Team - Maze Bank Arena - Chairception - links website #Blender </title> 
 <desc lang="en"> Started: 3:39AM 
 Playing: Grand Theft Auto V 
-Viewers: 496 </desc> 
+Viewers: 454 </desc> 
 </programme> 
 <programme start="20221027150858 +0000" stop="20221030100858 +0000" channel="dark0verseer.us"> 
 <title lang="en"> Nopixel Dev - HoA Liquid Library MLO - come for the free pogoli buffet - current - commands - npstore </title> 
 <desc lang="en"> Started: 10:08AM 
 Playing: Grand Theft Auto V 
-Viewers: 49 </desc> 
+Viewers: 86 </desc> 
 </programme> 
 <programme start="20221027114657 +0000" stop="20221030064657 +0000" channel="4head.us"> 
 <title lang="en"> 4HEAD - GG - NoPixel WL - NordVPN Raid </title> 
 <desc lang="en"> Started: 6:46AM 
 Playing: Grand Theft Auto V 
-Viewers: 1976 </desc> 
+Viewers: 1818 </desc> 
 </programme> 
 <programme start="20221027053052 +0000" stop="20221030003052 +0000" channel="biggwoo.us"> 
 <title lang="en"> Future Cortair -🥇GG Prince Slime 🥇 - 💯DOING THE RP THING 💯 [N0T SCUFFED] - NoPixel WL - twitter </title> 
 <desc lang="en"> Started: 12:30AM 
 Playing: Grand Theft Auto V 
-Viewers: 199 </desc> 
+Viewers: 195 </desc> 
 </programme> 
 <programme start="20221027071236 +0000" stop="20221030021236 +0000" channel="livberri.us"> 
 <title lang="en"> Totally no Spice - Storm - Nopixel WL </title> 
 <desc lang="en"> Started: 2:12AM 
 Playing: Grand Theft Auto V 
-Viewers: 132 </desc> 
+Viewers: 126 </desc> 
 </programme> 
 <programme start="20221027133554 +0000" stop="20221030083554 +0000" channel="flomcnasty_tv.us"> 
 <title lang="en"> William Clubb - NoPixel WL - GFuel Energy merch kofi </title> 
 <desc lang="en"> Started: 8:35AM 
 Playing: Grand Theft Auto V 
-Viewers: 202 </desc> 
-</programme> 
-<programme start="20221027105221 +0000" stop="20221030055221 +0000" channel="jayaitch.us"> 
-<title lang="en"> Lil Cap - BBMC - NP WL </title> 
-<desc lang="en"> Started: 5:52AM 
-Playing: Grand Theft Auto V 
-Viewers: 177 </desc> 
+Viewers: 216 </desc> 
 </programme> 
 <programme start="20221027121303 +0000" stop="20221030071303 +0000" channel="benni.us"> 
 <title lang="en"> SANTI SANTI SANTI - VAGOS - NOPIXEL WL </title> 
 <desc lang="en"> Started: 7:13AM 
 Playing: Grand Theft Auto V 
-Viewers: 58 </desc> 
+Viewers: 56 </desc> 
 </programme> 
 <programme start="20221027082521 +0000" stop="20221030032521 +0000" channel="myladyballs.us"> 
 <title lang="en"> Affiliate Anniversary SUBATHON subgoals - NoPixel RP WL Vero Garcia - Vagos - twitter discord - 18 We talking grown folk things </title> 
 <desc lang="en"> Started: 3:25AM 
 Playing: Grand Theft Auto V 
-Viewers: 10 </desc> 
+Viewers: 11 </desc> 
 </programme> 
 <programme start="20221027090930 +0000" stop="20221030040930 +0000" channel="irish_gt.us"> 
 <title lang="en"> 434 Tagdh McQuillen - LSPD - NoPixel WL </title> 
@@ -231,103 +225,109 @@ Viewers: 63 </desc>
 <title lang="en"> 🫢 Den Shiesty New Commercial Shoot For Chief🫢 socials </title> 
 <desc lang="en"> Started: 9:43AM 
 Playing: Grand Theft Auto V 
-Viewers: 876 </desc> 
-</programme> 
-<programme start="20221027122554 +0000" stop="20221030072554 +0000" channel="moose_taffy.us"> 
-<title lang="en"> Patar Bellosh - No Pixel WL - Yotube Turbo [Clips After - Clip Bot Open Send Clips In Chat - ] </title> 
-<desc lang="en"> Started: 7:25AM 
-Playing: Grand Theft Auto V 
-Viewers: 654 </desc> 
+Viewers: 1148 </desc> 
 </programme> 
 <programme start="20221027050030 +0000" stop="20221030000030 +0000" channel="khaosadam.us"> 
 <title lang="en"> DO N0T CLICK THIS IS OFFLINE VAULT IVE NEVER DONE THIS HELP ME IM SORRY - ADAM ABABWA - MANDEM - NoPixel WL - twitter discord </title> 
 <desc lang="en"> Started: 12:00AM 
 Playing: Grand Theft Auto V 
-Viewers: 587 </desc> 
+Viewers: 572 </desc> 
 </programme> 
-<programme start="20221027144303 +0000" stop="20221030094303 +0000" channel="neloc_.us"> 
+<programme start="20221027122554 +0000" stop="20221030072554 +0000" channel="moose_taffy.us"> 
+<title lang="en"> Patar Bellosh - No Pixel WL - Yotube Turbo [Clips After - Clip Bot Open Send Clips In Chat - ] </title> 
+<desc lang="en"> Started: 7:25AM 
+Playing: Grand Theft Auto V 
+Viewers: 620 </desc> 
+</programme> 
+<programme start="20221027152928 +0000" stop="20221030102928 +0000" channel="neloc_.us"> 
 <title lang="en"> Moses Khan - MDM - twitter @neloctv </title> 
-<desc lang="en"> Started: 9:43AM 
+<desc lang="en"> Started: 10:29AM 
 Playing: Grand Theft Auto V 
-Viewers: 92 </desc> 
-</programme> 
-<programme start="20221027141803 +0000" stop="20221030091803 +0000" channel="cydrose.us"> 
-<title lang="en"> 🐺 Cydney Lune︱R.U.S.T︱#Rat4Cyd - NoPixel WL✨socials </title> 
-<desc lang="en"> Started: 9:18AM 
-Playing: Grand Theft Auto V 
-Viewers: 89 </desc> 
+Viewers: 88 </desc> 
 </programme> 
 <programme start="20221027063322 +0000" stop="20221030013322 +0000" channel="phantomzz_ow.us"> 
 <title lang="en"> Connell MacGregor - NoPixel WL - RUST HIGH COMMAND - SBS STUFF PROLLY AN0THER WAR LOL </title> 
 <desc lang="en"> Started: 1:33AM 
 Playing: Grand Theft Auto V 
-Viewers: 250 </desc> 
+Viewers: 226 </desc> 
 </programme> 
 <programme start="20221027060443 +0000" stop="20221030010443 +0000" channel="bucketst.us"> 
 <title lang="en"> Gheto Kaiba - War is over - RUST-Redline - NoPixel WL - tiktok </title> 
 <desc lang="en"> Started: 1:04AM 
 Playing: Grand Theft Auto V 
-Viewers: 277 </desc> 
+Viewers: 289 </desc> 
+</programme> 
+<programme start="20221027141803 +0000" stop="20221030091803 +0000" channel="cydrose.us"> 
+<title lang="en"> 🐺 Cydney Lune︱R.U.S.T︱#Rat4Cyd - NoPixel WL✨socials </title> 
+<desc lang="en"> Started: 9:18AM 
+Playing: Grand Theft Auto V 
+Viewers: 92 </desc> 
 </programme> 
 <programme start="20221027152220 +0000" stop="20221030102220 +0000" channel="kongfue.us"> 
 <title lang="en"> 🧨 Bombastic Stanislav Todorov 🚖 Russian Taxi 🇷🇺 NoPixel Whitelisted 🔸 socials 2k </title> 
 <desc lang="en"> Started: 10:22AM 
 Playing: Grand Theft Auto V 
-Viewers: 47 </desc> 
+Viewers: 137 </desc> 
 </programme> 
 <programme start="20221027114731 +0000" stop="20221030064731 +0000" channel="vondill.us"> 
 <title lang="en"> I've Missed You :) - Sammy Snake - NoPixel WL </title> 
 <desc lang="en"> Started: 6:47AM 
 Playing: Grand Theft Auto V 
-Viewers: 32 </desc> 
+Viewers: 34 </desc> 
 </programme> 
 <programme start="20221027140021 +0000" stop="20221030090021 +0000" channel="rayforrachel.us"> 
 <title lang="en"> 🎃 Shirley "No Debt" Lemons 🎃 - NoPixel 3.0 WL - scare lhbingo newvideo discord (👻scare alerts enabled👻) </title> 
 <desc lang="en"> Started: 9:00AM 
 Playing: Grand Theft Auto V 
-Viewers: 58 </desc> 
+Viewers: 60 </desc> 
 </programme> 
 <programme start="20221027132421 +0000" stop="20221030082421 +0000" channel="thestockguy.us"> 
 <title lang="en"> GDP positive... saved - Coffee freestocks </title> 
 <desc lang="en"> Started: 8:24AM 
 Playing: Just Chatting 
-Viewers: 2482 </desc> 
+Viewers: 2347 </desc> 
+</programme> 
+<programme start="20221027153716 +0000" stop="20221030103716 +0000" channel="kitboga.us"> 
+<title lang="en"> [Ep. 1166] Scamming Scammers aura </title> 
+<desc lang="en"> Started: 10:37AM 
+Playing: Just Chatting 
+Viewers: 1574 </desc> 
 </programme> 
 <programme start="20221027143710 +0000" stop="20221030093710 +0000" channel="Castro_1021.us"> 
 <title lang="en"> 24 DAYS TILL WORLD CUP @Castro1021 </title> 
 <desc lang="en"> Started: 9:37AM 
 Playing: FIFA 23 
-Viewers: 13927 </desc> 
+Viewers: 15687 </desc> 
 </programme> 
-<programme start="20221027000000 +0000" stop="20221030102815 +0000" channel="Sykkuno .us"> 
+<programme start="20221027000000 +0000" stop="20221030104315 +0000" channel="Sykkuno .us"> 
 <title lang="en"> Sykkuno - YouTube </title> 
 <desc lang="en"> Sykkuno - YouTube </desc> 
 </programme> 
-<programme start="20221027000000 +0000" stop="20221030102815 +0000" channel="Live on Patrol.us"> 
+<programme start="20221027000000 +0000" stop="20221030104315 +0000" channel="Live on Patrol.us"> 
 <title lang="en"> Live on Patrol - YouTube </title> 
 <desc lang="en"> Live on Patrol - YouTube </desc> 
 </programme> 
-<programme start="20221027000000 +0000" stop="20221030102815 +0000" channel="Valkyrae.us"> 
+<programme start="20221027000000 +0000" stop="20221030104315 +0000" channel="Valkyrae.us"> 
 <title lang="en"> Valkyrae - YouTube </title> 
 <desc lang="en"> Valkyrae - YouTube </desc> 
 </programme> 
-<programme start="20221027000000 +0000" stop="20221030102815 +0000" channel="Myth.us"> 
+<programme start="20221027000000 +0000" stop="20221030104315 +0000" channel="Myth.us"> 
 <title lang="en"> Myth - YouTube </title> 
 <desc lang="en"> Myth - YouTube </desc> 
 </programme> 
-<programme start="20221027000000 +0000" stop="20221030102815 +0000" channel="TimTheTatman.us"> 
+<programme start="20221027000000 +0000" stop="20221030104315 +0000" channel="TimTheTatman.us"> 
 <title lang="en"> TimTheTatman - YouTube </title> 
 <desc lang="en"> TimTheTatman - YouTube </desc> 
 </programme> 
-<programme start="20221027000000 +0000" stop="20221030102815 +0000" channel="WashingtonPost.us"> 
+<programme start="20221027000000 +0000" stop="20221030104315 +0000" channel="WashingtonPost.us"> 
 <title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD - YouTube </title> 
 <desc lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD - YouTube </desc> 
 </programme> 
-<programme start="20221027000000 +0000" stop="20221030102815 +0000" channel="fuslie.us"> 
+<programme start="20221027000000 +0000" stop="20221030104315 +0000" channel="fuslie.us"> 
 <title lang="en"> fuslie - YouTube </title> 
 <desc lang="en"> fuslie - YouTube </desc> 
 </programme> 
-<programme start="20221027000000 +0000" stop="20221030102815 +0000" channel="DrDisrespect.us"> 
+<programme start="20221027000000 +0000" stop="20221030104315 +0000" channel="DrDisrespect.us"> 
 <title lang="en"> DrDisRespect - YouTube} </title> 
 <desc lang="en"> DrDisRespect - YouTube </desc> 
 </programme> 
