@@ -1,14 +1,11 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<channel id="crystalst.us"> 
-<display-name>crystalst</display-name> 
-</channel> 
 <channel id="myles_away.us"> 
 <display-name>myles_away</display-name> 
 </channel> 
-<channel id="bucketst.us"> 
-<display-name>bucketst</display-name> 
+<channel id="crystalst.us"> 
+<display-name>crystalst</display-name> 
 </channel> 
 <channel id="zuck.us"> 
 <display-name>zuck</display-name> 
@@ -16,11 +13,14 @@
 <channel id="franktactics.us"> 
 <display-name>franktactics</display-name> 
 </channel> 
-<channel id="ms_star.us"> 
-<display-name>ms_star</display-name> 
+<channel id="bucketst.us"> 
+<display-name>bucketst</display-name> 
 </channel> 
 <channel id="lysium.us"> 
 <display-name>lysium</display-name> 
+</channel> 
+<channel id="ms_star.us"> 
+<display-name>ms_star</display-name> 
 </channel> 
 <channel id="lt_custard.us"> 
 <display-name>lt_custard</display-name> 
@@ -28,11 +28,14 @@
 <channel id="bananaduck.us"> 
 <display-name>bananaduck</display-name> 
 </channel> 
-<channel id="livberri.us"> 
-<display-name>livberri</display-name> 
-</channel> 
 <channel id="charlthemisfit.us"> 
 <display-name>charlthemisfit</display-name> 
+</channel> 
+<channel id="depdott.us"> 
+<display-name>depdott</display-name> 
+</channel> 
+<channel id="livberri.us"> 
+<display-name>livberri</display-name> 
 </channel> 
 <channel id="shaww0w.us"> 
 <display-name>shaww0w</display-name> 
@@ -42,12 +45,6 @@
 </channel> 
 <channel id="TPAIN.us"> 
 <display-name>TPAIN</display-name> 
-</channel> 
-<channel id="thesushidragon.us"> 
-<display-name>thesushidragon</display-name> 
-</channel> 
-<channel id="depdott.us"> 
-<display-name>depdott</display-name> 
 </channel> 
 <channel id="amouranth.us"> 
 <display-name>amouranth</display-name> 
@@ -61,9 +58,15 @@
 <channel id="LittleBabyBum.us"> 
 <display-name>LittleBabyBum</display-name> 
 </channel> 
-<programme start="20230101000000 +0000" stop="20230104022100 +0000" channel="clearepg.us"> 
+<programme start="20230101000000 +0000" stop="20230104022800 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
+</programme> 
+<programme start="20221231090517 +0000" stop="20230103040517 +0000" channel="myles_away.us"> 
+<title lang="en"> 26 HOUR STREAM - SGT STUBBLE - NOPIXEL 3.0 </title> 
+<desc lang="en"> Started: 4:05AM 
+Playing: Grand Theft Auto V 
+Viewers: 485 </desc> 
 </programme> 
 <programme start="20221231060016 +0000" stop="20230103010016 +0000" channel="crystalst.us"> 
 <title lang="en"> crystal and peach :D happy new year~ </title> 
@@ -71,111 +74,99 @@
 Playing: Grand Theft Auto V 
 Viewers: 2377 </desc> 
 </programme> 
-<programme start="20221231090517 +0000" stop="20230103040517 +0000" channel="myles_away.us"> 
-<title lang="en"> 26 HOUR STREAM - SGT STUBBLE - NOPIXEL 3.0 </title> 
-<desc lang="en"> Started: 4:05AM 
-Playing: Grand Theft Auto V 
-Viewers: 489 </desc> 
-</programme> 
-<programme start="20230101060423 +0000" stop="20230104010423 +0000" channel="bucketst.us"> 
-<title lang="en"> Gheto Kaiba - RUST-Redline - NoPixel WL - tiktok </title> 
-<desc lang="en"> Started: 1:04AM 
-Playing: Grand Theft Auto V 
-Viewers: 281 </desc> 
-</programme> 
 <programme start="20230101025519 +0000" stop="20230103215519 +0000" channel="zuck.us"> 
 <title lang="en"> ❤️ Drinkin Stream - Zuck Cuc - Gulag Gang - Nopixel WL 🧛‍♂️ discord </title> 
 <desc lang="en"> Started: 9:55PM 
 Playing: Grand Theft Auto V 
-Viewers: 173 </desc> 
+Viewers: 186 </desc> 
 </programme> 
 <programme start="20221231190306 +0000" stop="20230103140306 +0000" channel="franktactics.us"> 
 <title lang="en"> Nomad 🚨 NoPixel WL - GTA RP 🚨 REDLINE </title> 
 <desc lang="en"> Started: 2:03PM 
 Playing: Grand Theft Auto V 
-Viewers: 183 </desc> 
+Viewers: 186 </desc> 
 </programme> 
-<programme start="20230101060546 +0000" stop="20230104010546 +0000" channel="ms_star.us"> 
-<title lang="en"> HAPPY NEW YEAR - Sgt. Skye Faye 322 - SRU - NoPixel WL - https:--discord.gg-G634rysvbB </title> 
-<desc lang="en"> Started: 1:05AM 
+<programme start="20230101060423 +0000" stop="20230104010423 +0000" channel="bucketst.us"> 
+<title lang="en"> Gheto Kaiba - RUST-Redline - NoPixel WL - tiktok </title> 
+<desc lang="en"> Started: 1:04AM 
 Playing: Grand Theft Auto V 
-Viewers: 74 </desc> 
+Viewers: 270 </desc> 
 </programme> 
 <programme start="20230101011705 +0000" stop="20230103201705 +0000" channel="lysium.us"> 
 <title lang="en"> HAPPY NEW YEAR - IM BACK - REVIEWING FOOD - HOLIDAY STORIES - BENJI - SEASIDE - NOPIXEL WL - DISCORD.GG-LYSIUM </title> 
 <desc lang="en"> Started: 8:17PM 
 Playing: Grand Theft Auto V 
-Viewers: 1342 </desc> 
+Viewers: 1352 </desc> 
+</programme> 
+<programme start="20230101060546 +0000" stop="20230104010546 +0000" channel="ms_star.us"> 
+<title lang="en"> HAPPY NEW YEAR - Sgt. Skye Faye 322 - SRU - NoPixel WL - https:--discord.gg-G634rysvbB </title> 
+<desc lang="en"> Started: 1:05AM 
+Playing: Grand Theft Auto V 
+Viewers: 77 </desc> 
 </programme> 
 <programme start="20230101003744 +0000" stop="20230103193744 +0000" channel="lt_custard.us"> 
 <title lang="en"> HAPPY NEW YEAR FORGOT TO FIX ALERTS .- Collin McKinley - BBMC VP - NoPixel WL </title> 
 <desc lang="en"> Started: 7:37PM 
 Playing: Grand Theft Auto V 
-Viewers: 1017 </desc> 
+Viewers: 994 </desc> 
 </programme> 
 <programme start="20230101022108 +0000" stop="20230103212108 +0000" channel="bananaduck.us"> 
 <title lang="en"> IM HUNGOVER SHUT UP CHUCKDANGER </title> 
 <desc lang="en"> Started: 9:21PM 
 Playing: Grand Theft Auto V 
-Viewers: 306 </desc> 
-</programme> 
-<programme start="20230101060528 +0000" stop="20230104010528 +0000" channel="livberri.us"> 
-<title lang="en"> Storm - Goth mommy EMS - Nopixel WL </title> 
-<desc lang="en"> Started: 1:05AM 
-Playing: Grand Theft Auto V 
-Viewers: 20 </desc> 
+Viewers: 295 </desc> 
 </programme> 
 <programme start="20221231203346 +0000" stop="20230103153346 +0000" channel="charlthemisfit.us"> 
 <title lang="en"> Living a COMPLETELY normal life - Charlotte Spade - NoPixel WL - @charlthemisfit </title> 
 <desc lang="en"> Started: 3:33PM 
 Playing: Grand Theft Auto V 
-Viewers: 15 </desc> 
-</programme> 
-<programme start="20230101022519 +0000" stop="20230103212519 +0000" channel="shaww0w.us"> 
-<title lang="en"> Garry Breaking Bad Roche - 💪 Juice Up Gymnasium and Burger Shot 🍔 - NoPixel WL GTA RP socials discord </title> 
-<desc lang="en"> Started: 9:25PM 
-Playing: Grand Theft Auto V 
-Viewers: 54 </desc> 
-</programme> 
-<programme start="20221231204216 +0000" stop="20230103154216 +0000" channel="summit1g.us"> 
-<title lang="en"> chillin. - gfuel merch - @summit1g </title> 
-<desc lang="en"> Started: 3:42PM 
-Playing: Escape from Tarkov 
-Viewers: 23697 </desc> 
-</programme> 
-<programme start="20230101065853 +0000" stop="20230104015853 +0000" channel="TPAIN.us"> 
-<title lang="en"> Drunk Hotel CODM </title> 
-<desc lang="en"> Started: 1:58AM 
-Playing: Just Chatting 
-Viewers: 418 </desc> 
-</programme> 
-<programme start="20230101013947 +0000" stop="20230103203947 +0000" channel="thesushidragon.us"> 
-<title lang="en"> NEW YEARS SPECIAL FT. DJ_TEO x SUSHI COLLAB OF THE YEAR </title> 
-<desc lang="en"> Started: 8:39PM 
-Playing: Just Chatting 
-Viewers: 401 </desc> 
+Viewers: 14 </desc> 
 </programme> 
 <programme start="20230101063135 +0000" stop="20230104013135 +0000" channel="depdott.us"> 
 <title lang="en"> Di On Tam 譚迪安 - HAPPY NEW YEAR - Nopixel WL - discord </title> 
 <desc lang="en"> Started: 1:31AM 
 Playing: Grand Theft Auto V 
-Viewers: 7 </desc> 
+Viewers: 4 </desc> 
+</programme> 
+<programme start="20230101060528 +0000" stop="20230104010528 +0000" channel="livberri.us"> 
+<title lang="en"> Storm - Goth mommy EMS - Nopixel WL </title> 
+<desc lang="en"> Started: 1:05AM 
+Playing: Grand Theft Auto V 
+Viewers: 17 </desc> 
+</programme> 
+<programme start="20230101022519 +0000" stop="20230103212519 +0000" channel="shaww0w.us"> 
+<title lang="en"> Garry Breaking Bad Roche - 💪 Juice Up Gymnasium and Burger Shot 🍔 - NoPixel WL GTA RP socials discord </title> 
+<desc lang="en"> Started: 9:25PM 
+Playing: Grand Theft Auto V 
+Viewers: 61 </desc> 
+</programme> 
+<programme start="20221231204216 +0000" stop="20230103154216 +0000" channel="summit1g.us"> 
+<title lang="en"> chillin. - gfuel merch - @summit1g </title> 
+<desc lang="en"> Started: 3:42PM 
+Playing: Escape from Tarkov 
+Viewers: 24835 </desc> 
+</programme> 
+<programme start="20230101065853 +0000" stop="20230104015853 +0000" channel="TPAIN.us"> 
+<title lang="en"> Drunk Hotel CODM </title> 
+<desc lang="en"> Started: 1:58AM 
+Playing: Just Chatting 
+Viewers: 445 </desc> 
 </programme> 
 <programme start="20221231213533 +0000" stop="20230103163533 +0000" channel="amouranth.us"> 
 <title lang="en"> 🔥SMASH OR PASS VIEWER PICS -- post yours in discord 🔥NEW YEARS CONTENT $1000 PRIZE -- enter🔥 s -- social media links </title> 
 <desc lang="en"> Started: 4:35PM 
 Playing: Just Chatting 
-Viewers: 7871 </desc> 
+Viewers: 8002 </desc> 
 </programme> 
-<programme start="20230101000000 +0000" stop="20230104022125 +0000" channel="liveonpatrol.us"> 
+<programme start="20230101000000 +0000" stop="20230104022823 +0000" channel="liveonpatrol.us"> 
 <title lang="en"> Live on Patrol </title> 
 <desc lang="en"> Live on Patrol </desc> 
 </programme> 
-<programme start="20230101000000 +0000" stop="20230104022125 +0000" channel="WashingtonPost.us"> 
+<programme start="20230101000000 +0000" stop="20230104022823 +0000" channel="WashingtonPost.us"> 
 <title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title> 
 <desc lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </desc> 
 </programme> 
-<programme start="20230101000000 +0000" stop="20230104022125 +0000" channel="LittleBabyBum.us"> 
+<programme start="20230101000000 +0000" stop="20230104022823 +0000" channel="LittleBabyBum.us"> 
 <title lang="en"> 🔴 Little Bus Nursery Rhymes LIVE 🔴 Little Baby Bum Songs </title> 
 <desc lang="en"> 🔴 Little Bus Nursery Rhymes LIVE 🔴 Little Baby Bum Songs </desc> 
 </programme> 
