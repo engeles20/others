@@ -1,17 +1,17 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
+<channel id="myles_away.us"> 
+<display-name>myles_away</display-name> 
+</channel> 
 <channel id="nidas.us"> 
 <display-name>nidas</display-name> 
-</channel> 
-<channel id="xqc.us"> 
-<display-name>xqc</display-name> 
 </channel> 
 <channel id="uhsnow.us"> 
 <display-name>uhsnow</display-name> 
 </channel> 
-<channel id="myles_away.us"> 
-<display-name>myles_away</display-name> 
+<channel id="xqc.us"> 
+<display-name>xqc</display-name> 
 </channel> 
 <channel id="arckon_.us"> 
 <display-name>arckon_</display-name> 
@@ -19,11 +19,14 @@
 <channel id="adzno.us"> 
 <display-name>adzno</display-name> 
 </channel> 
+<channel id="4head.us"> 
+<display-name>4head</display-name> 
+</channel> 
 <channel id="tobii.us"> 
 <display-name>tobii</display-name> 
 </channel> 
-<channel id="4head.us"> 
-<display-name>4head</display-name> 
+<channel id="kookie.us"> 
+<display-name>kookie</display-name> 
 </channel> 
 <channel id="gtawiseguy.us"> 
 <display-name>gtawiseguy</display-name> 
@@ -37,11 +40,11 @@
 <channel id="iikeycaps.us"> 
 <display-name>iikeycaps</display-name> 
 </channel> 
-<channel id="sl1mew.us"> 
-<display-name>sl1mew</display-name> 
-</channel> 
 <channel id="bananaduck.us"> 
 <display-name>bananaduck</display-name> 
+</channel> 
+<channel id="sl1mew.us"> 
+<display-name>sl1mew</display-name> 
 </channel> 
 <channel id="lagtvmaximusblack.us"> 
 <display-name>lagtvmaximusblack</display-name> 
@@ -55,39 +58,39 @@
 <channel id="LittleBabyBum.us"> 
 <display-name>LittleBabyBum</display-name> 
 </channel> 
-<programme start="20230110000000 +0000" stop="20230113085800 +0000" channel="clearepg.us"> 
+<programme start="20230110000000 +0000" stop="20230113090600 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
-</programme> 
-<programme start="20230110121716 +0000" stop="20230113071716 +0000" channel="nidas.us"> 
-<title lang="en"> Follow as the Epic cop Ingevar hunts down the most wanted of NoPixel - specs </title> 
-<desc lang="en"> Started: 7:17AM 
-Playing: Grand Theft Auto V 
-Viewers: 582 </desc> 
-</programme> 
-<programme start="20230110024709 +0000" stop="20230112214709 +0000" channel="xqc.us"> 
-<title lang="en"> __CLICK NOW_____ @#*(*( NOW)(#@*($)#@()$*@#() CLCIK IT(*$*(and#@$and@#$*WOW(*LKJHKJFHOI$UR$}RFAST*#()#*jhejkBEFORE 2(@**and#and#LATE*#and$ </title> 
-<desc lang="en"> Started: 9:47PM 
-Playing: Cities: Skylines 
-Viewers: 60167 </desc> 
-</programme> 
-<programme start="20230110111716 +0000" stop="20230113061716 +0000" channel="uhsnow.us"> 
-<title lang="en"> Trooper Snow - NoPixel - discord.gg-Snow </title> 
-<desc lang="en"> Started: 6:17AM 
-Playing: Grand Theft Auto V 
-Viewers: 3385 </desc> 
 </programme> 
 <programme start="20230110112650 +0000" stop="20230113062650 +0000" channel="myles_away.us"> 
 <title lang="en"> Sgt Stubble - NOPIXEL 3.0 - Cerberus is fine </title> 
 <desc lang="en"> Started: 6:26AM 
 Playing: Grand Theft Auto V 
-Viewers: 310 </desc> 
+Viewers: 314 </desc> 
+</programme> 
+<programme start="20230110121716 +0000" stop="20230113071716 +0000" channel="nidas.us"> 
+<title lang="en"> Follow as the Epic cop Ingevar hunts down the most wanted of NoPixel - specs </title> 
+<desc lang="en"> Started: 7:17AM 
+Playing: Grand Theft Auto V 
+Viewers: 587 </desc> 
+</programme> 
+<programme start="20230110111716 +0000" stop="20230113061716 +0000" channel="uhsnow.us"> 
+<title lang="en"> Trooper Snow - NoPixel - discord.gg-Snow </title> 
+<desc lang="en"> Started: 6:17AM 
+Playing: Grand Theft Auto V 
+Viewers: 3496 </desc> 
+</programme> 
+<programme start="20230110024709 +0000" stop="20230112214709 +0000" channel="xqc.us"> 
+<title lang="en"> __CLICK NOW_____ @#*(*( NOW)(#@*($)#@()$*@#() CLCIK IT(*$*(and#@$and@#$*WOW(*LKJHKJFHOI$UR$}RFAST*#()#*jhejkBEFORE 2(@**and#and#LATE*#and$ </title> 
+<desc lang="en"> Started: 9:47PM 
+Playing: Cities: Skylines 
+Viewers: 60795 </desc> 
 </programme> 
 <programme start="20230110054224 +0000" stop="20230113004224 +0000" channel="arckon_.us"> 
 <title lang="en"> Cpl. Beric Johnson - NoPixel WL </title> 
 <desc lang="en"> Started: 12:42AM 
 Playing: Grand Theft Auto V 
-Viewers: 93 </desc> 
+Viewers: 87 </desc> 
 </programme> 
 <programme start="20230110134555 +0000" stop="20230113084555 +0000" channel="adzno.us"> 
 <title lang="en"> Morning Meta #2 - @MelarkyNP on twitter </title> 
@@ -95,71 +98,77 @@ Viewers: 93 </desc>
 Playing: Grand Theft Auto V 
 Viewers: 10 </desc> 
 </programme> 
-<programme start="20230110105453 +0000" stop="20230113055453 +0000" channel="tobii.us"> 
-<title lang="en"> Dev stuff - RP - NoPixel Developer - socials discord current merch </title> 
-<desc lang="en"> Started: 5:54AM 
-Playing: Grand Theft Auto V 
-Viewers: 1490 </desc> 
-</programme> 
 <programme start="20230110100228 +0000" stop="20230113050228 +0000" channel="4head.us"> 
 <title lang="en"> 4HEAD - GG - NoPixel WL </title> 
 <desc lang="en"> Started: 5:02AM 
 Playing: Grand Theft Auto V 
-Viewers: 1649 </desc> 
+Viewers: 1707 </desc> 
+</programme> 
+<programme start="20230110105453 +0000" stop="20230113055453 +0000" channel="tobii.us"> 
+<title lang="en"> Dev stuff - RP - NoPixel Developer - socials discord current merch </title> 
+<desc lang="en"> Started: 5:54AM 
+Playing: Grand Theft Auto V 
+Viewers: 1404 </desc> 
+</programme> 
+<programme start="20230110140451 +0000" stop="20230113090451 +0000" channel="kookie.us"> 
+<title lang="en"> 🔴 Kookie Louw - Gulag Gang - NoPixel WL </title> 
+<desc lang="en"> Started: 9:04AM 
+Playing: Grand Theft Auto V 
+Viewers: 8 </desc> 
 </programme> 
 <programme start="20230110120155 +0000" stop="20230113070155 +0000" channel="gtawiseguy.us"> 
 <title lang="en"> Clips while FiveM is down - NoPixel WL RP insta </title> 
 <desc lang="en"> Started: 7:01AM 
 Playing: Just Chatting 
-Viewers: 2727 </desc> 
+Viewers: 2761 </desc> 
 </programme> 
 <programme start="20230110112558 +0000" stop="20230113062558 +0000" channel="sparkykne.us"> 
 <title lang="en"> 🟢 YELLOW POLE 1 SK 0 🟢 SPARKY KANE 🟢 MDM 🟢 NOPIXEL WL 🟢 NEWSONG COMPETITION </title> 
 <desc lang="en"> Started: 6:25AM 
 Playing: Grand Theft Auto V 
-Viewers: 3925 </desc> 
+Viewers: 4091 </desc> 
 </programme> 
 <programme start="20230110104628 +0000" stop="20230113054628 +0000" channel="phantomzz_ow.us"> 
 <title lang="en"> Connell MacGregor - NoPixel - RUST - WAR WITH BBMC 🥕 HelloFresh #ad </title> 
 <desc lang="en"> Started: 5:46AM 
 Playing: Grand Theft Auto V 
-Viewers: 283 </desc> 
+Viewers: 312 </desc> 
 </programme> 
 <programme start="20230110105025 +0000" stop="20230113055025 +0000" channel="iikeycaps.us"> 
 <title lang="en"> Short Stream - MP -🌊SEASIDE🌊- NOPIXEL WL socials </title> 
 <desc lang="en"> Started: 5:50AM 
 Playing: Grand Theft Auto V 
-Viewers: 114 </desc> 
-</programme> 
-<programme start="20230110111259 +0000" stop="20230113061259 +0000" channel="sl1mew.us"> 
-<title lang="en"> coffee n chill - tictac - Yokai - Balla Gang - Nopixel WL (commands - twitter) </title> 
-<desc lang="en"> Started: 6:12AM 
-Playing: Grand Theft Auto V 
-Viewers: 13 </desc> 
+Viewers: 119 </desc> 
 </programme> 
 <programme start="20230110090658 +0000" stop="20230113040658 +0000" channel="bananaduck.us"> 
 <title lang="en"> SUBATHON BILLY OGGSF HOBO NOPIXELWL GOD </title> 
 <desc lang="en"> Started: 4:06AM 
 Playing: Grand Theft Auto V 
-Viewers: 583 </desc> 
+Viewers: 575 </desc> 
+</programme> 
+<programme start="20230110111259 +0000" stop="20230113061259 +0000" channel="sl1mew.us"> 
+<title lang="en"> coffee n chill - tictac - Yokai - Balla Gang - Nopixel WL (commands - twitter) </title> 
+<desc lang="en"> Started: 6:12AM 
+Playing: Grand Theft Auto V 
+Viewers: 19 </desc> 
 </programme> 
 <programme start="20230110101030 +0000" stop="20230113051030 +0000" channel="lagtvmaximusblack.us"> 
 <title lang="en"> OTT - WAR VS MDM NordVPN </title> 
 <desc lang="en"> Started: 5:10AM 
 Playing: Grand Theft Auto V 
-Viewers: 2120 </desc> 
+Viewers: 2160 </desc> 
 </programme> 
 <programme start="20230110130111 +0000" stop="20230113080111 +0000" channel="thestockguy.us"> 
 <title lang="en"> House debacle continues - podcast freestocks </title> 
 <desc lang="en"> Started: 8:01AM 
 Playing: Just Chatting 
-Viewers: 1950 </desc> 
+Viewers: 1987 </desc> 
 </programme> 
-<programme start="20230110000000 +0000" stop="20230113085825 +0000" channel="WashingtonPost.us"> 
+<programme start="20230110000000 +0000" stop="20230113090624 +0000" channel="WashingtonPost.us"> 
 <title lang="en"> WATCH: House GOP leadership holds a news conference </title> 
 <desc lang="en"> WATCH: House GOP leadership holds a news conference </desc> 
 </programme> 
-<programme start="20230110000000 +0000" stop="20230113085825 +0000" channel="LittleBabyBum.us"> 
+<programme start="20230110000000 +0000" stop="20230113090624 +0000" channel="LittleBabyBum.us"> 
 <title lang="en"> 🔴 Little Bus Nursery Rhymes LIVE 🔴 Little Baby Bum Wheels on the Bus </title> 
 <desc lang="en"> 🔴 Little Bus Nursery Rhymes LIVE 🔴 Little Baby Bum Wheels on the Bus </desc> 
 </programme> 
