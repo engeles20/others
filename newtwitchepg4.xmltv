@@ -1,11 +1,11 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<channel id="blau.us"> 
-<display-name>blau</display-name> 
-</channel> 
 <channel id="anthonyz.us"> 
 <display-name>anthonyz</display-name> 
+</channel> 
+<channel id="blau.us"> 
+<display-name>blau</display-name> 
 </channel> 
 <channel id="luka_aus.us"> 
 <display-name>luka_aus</display-name> 
@@ -18,6 +18,9 @@
 </channel> 
 <channel id="tinystunt.us"> 
 <display-name>tinystunt</display-name> 
+</channel> 
+<channel id="ash.us"> 
+<display-name>ash</display-name> 
 </channel> 
 <channel id="arnie.us"> 
 <display-name>arnie</display-name> 
@@ -58,33 +61,33 @@
 <channel id="LittleBabyBum.us"> 
 <display-name>LittleBabyBum</display-name> 
 </channel> 
-<programme start="20230513000000 +0000" stop="20230516045100 +0000" channel="clearepg.us"> 
+<programme start="20230513000000 +0000" stop="20230516045800 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
-</programme> 
-<programme start="20230511175749 +0000" stop="20230514125749 +0000" channel="blau.us"> 
-<title lang="en"> UNCAPPED SUBATHON 😱 DAY 6 😱 BLAU SLEEPING PLAYING MODS GAMES 😱 SUBATHON tts wheel </title> 
-<desc lang="en"> Started: 12:57PM 
-Playing: Jackbox Party Packs 
-Viewers: 1587 </desc> 
 </programme> 
 <programme start="20230512184203 +0000" stop="20230515134203 +0000" channel="anthonyz.us"> 
 <title lang="en"> RANKING UP IN VALO TONIGHT🚨 EVERY 100 SUBS=GIVEAWAY 🚨🎉LIVE MON-FRI #ad </title> 
 <desc lang="en"> Started: 1:42PM 
 Playing: VALORANT 
-Viewers: 925 </desc> 
+Viewers: 923 </desc> 
+</programme> 
+<programme start="20230511175749 +0000" stop="20230514125749 +0000" channel="blau.us"> 
+<title lang="en"> UNCAPPED SUBATHON 😱 DAY 6 😱 BLAU SLEEPING PLAYING MODS GAMES 😱 SUBATHON tts wheel </title> 
+<desc lang="en"> Started: 12:57PM 
+Playing: Jackbox Party Packs 
+Viewers: 1580 </desc> 
 </programme> 
 <programme start="20230513093619 +0000" stop="20230516043619 +0000" channel="luka_aus.us"> 
 <title lang="en"> Nopixel - Deputy Kozlov SDSO - K9 Handler HVTU @luka_aus </title> 
 <desc lang="en"> Started: 4:36AM 
 Playing: Grand Theft Auto V 
-Viewers: 13 </desc> 
+Viewers: 22 </desc> 
 </programme> 
 <programme start="20230513092529 +0000" stop="20230516042529 +0000" channel="rerolldota.us"> 
 <title lang="en"> Nopixel WL - 469-K9 Lea Nova - Hot Take </title> 
 <desc lang="en"> Started: 4:25AM 
 Playing: Grand Theft Auto V 
-Viewers: 113 </desc> 
+Viewers: 108 </desc> 
 </programme> 
 <programme start="20230513063956 +0000" stop="20230516013956 +0000" channel="aaoki.us"> 
 <title lang="en"> Snr Officer Maddison Bancroft Short Stream - NoPixel WL tiktok twitter emote </title> 
@@ -96,79 +99,85 @@ Viewers: 84 </desc>
 <title lang="en"> Avery Stone Ranger 219 - NoPixel WL - Cop Things </title> 
 <desc lang="en"> Started: 1:05AM 
 Playing: Grand Theft Auto V 
-Viewers: 212 </desc> 
+Viewers: 205 </desc> 
+</programme> 
+<programme start="20230513095525 +0000" stop="20230516045525 +0000" channel="ash.us"> 
+<title lang="en"> Ash Ketchup • Hydra • NP Whitelist </title> 
+<desc lang="en"> Started: 4:55AM 
+Playing: Grand Theft Auto V 
+Viewers: 23 </desc> 
 </programme> 
 <programme start="20230513061321 +0000" stop="20230516011321 +0000" channel="arnie.us"> 
 <title lang="en"> npixel wl - hydradog - marvel clashgg </title> 
 <desc lang="en"> Started: 1:13AM 
 Playing: Grand Theft Auto V 
-Viewers: 697 </desc> 
+Viewers: 708 </desc> 
 </programme> 
 <programme start="20230513093816 +0000" stop="20230516043816 +0000" channel="tobii.us"> 
 <title lang="en"> 4.0 Dev things - Dan The Rat Mark - NoPixel Dev - socials discord merch </title> 
 <desc lang="en"> Started: 4:38AM 
 Playing: Grand Theft Auto V 
-Viewers: 424 </desc> 
+Viewers: 485 </desc> 
 </programme> 
 <programme start="20230513064100 +0000" stop="20230516014100 +0000" channel="julian.us"> 
 <title lang="en"> OCTO TYME -- SASPR -- clash -- hellcase </title> 
 <desc lang="en"> Started: 1:41AM 
 Playing: Grand Theft Auto V 
-Viewers: 378 </desc> 
+Viewers: 357 </desc> 
 </programme> 
 <programme start="20230513094317 +0000" stop="20230516044317 +0000" channel="ming.us"> 
 <title lang="en"> Ming Jingtai - Nopixel -clash - hellcase - rustix - @ MrMing011 </title> 
 <desc lang="en"> Started: 4:43AM 
 Playing: Grand Theft Auto V 
-Viewers: 90 </desc> 
+Viewers: 333 </desc> 
 </programme> 
 <programme start="20230513023512 +0000" stop="20230515213512 +0000" channel="bucketst.us"> 
 <title lang="en"> Gheto Kaiba - BBMC-Redline - NoPixel WL shorts </title> 
 <desc lang="en"> Started: 9:35PM 
 Playing: Grand Theft Auto V 
-Viewers: 302 </desc> 
+Viewers: 315 </desc> 
 </programme> 
 <programme start="20230513084810 +0000" stop="20230516034810 +0000" channel="neverossa.us"> 
 <title lang="en"> Dawn - NoPixel WL 3.0 </title> 
 <desc lang="en"> Started: 3:48AM 
 Playing: Grand Theft Auto V 
-Viewers: 105 </desc> 
+Viewers: 103 </desc> 
 </programme> 
 <programme start="20230513000323 +0000" stop="20230515190323 +0000" channel="aintitadam.us"> 
 <title lang="en"> scruffy - clowns - Nopixel WL </title> 
 <desc lang="en"> Started: 7:03PM 
 Playing: Grand Theft Auto V 
-Viewers: 109 </desc> 
+Viewers: 106 </desc> 
 </programme> 
 <programme start="20230512182955 +0000" stop="20230515132955 +0000" channel="charlthemisfit.us"> 
 <title lang="en"> Charlotte Spade - 😊 - @charlthemisfit </title> 
 <desc lang="en"> Started: 1:29PM 
 Playing: Grand Theft Auto V 
-Viewers: 50 </desc> 
+Viewers: 42 </desc> 
 </programme> 
 <programme start="20230513060559 +0000" stop="20230516010559 +0000" channel="tinystunt.us"> 
 <title lang="en"> Avery Stone Ranger 219 - NoPixel WL - Cop Things </title> 
 <desc lang="en"> Started: 1:05AM 
 Playing: Grand Theft Auto V 
-Viewers: 212 </desc> 
+Viewers: 205 </desc> 
 </programme> 
 <programme start="20230513004158 +0000" stop="20230515194158 +0000" channel="summit1g.us"> 
 <title lang="en"> wow hc chillin - @summit1g </title> 
 <desc lang="en"> Started: 7:41PM 
 Playing: World of Warcraft 
-Viewers: 12790 </desc> 
+Viewers: 12616 </desc> 
 </programme> 
 <programme start="20230512231204 +0000" stop="20230515181204 +0000" channel="amouranth.us"> 
 <title lang="en"> exposing my myself💦18💦--- s f0r social links 🔔TURN ON N0TIFICATIONS🔔 </title> 
 <desc lang="en"> Started: 6:12PM 
 Playing: Pools, Hot Tubs, and Beaches 
-Viewers: 5265 </desc> 
+Viewers: 4986 </desc> 
 </programme> 
-<programme start="20230513000000 +0000" stop="20230516045130 +0000" channel="WashingtonPost.us"> 
+<programme start="20230513000000 +0000" stop="20230516045830 +0000" channel="WashingtonPost.us"> 
 <title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title> 
 <desc lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </desc> 
 </programme> 
-<programme start="20230513000000 +0000" stop="20230516045130 +0000" channel="LittleBabyBum.us"> 
+<programme start="20230513000000 +0000" stop="20230516045830 +0000" channel="LittleBabyBum.us"> 
 <title lang="en"> 🔴 Learn ABC - Kids TV - LITTLE BABY BUM LIVE 🔴 Nursery Rhymes for babies: Wheels on the Bus and more⭐ </title> 
 <desc lang="en"> 🔴 Learn ABC - Kids TV - LITTLE BABY BUM LIVE 🔴 Nursery Rhymes for babies: Wheels on the Bus and more⭐ </desc> 
 </programme> 
