@@ -4,20 +4,20 @@
 <channel id="kyle.us"> 
 <display-name>kyle</display-name> 
 </channel> 
-<channel id="luka_aus.us"> 
-<display-name>luka_aus</display-name> 
-</channel> 
 <channel id="tinyspark.us"> 
 <display-name>tinyspark</display-name> 
+</channel> 
+<channel id="luka_aus.us"> 
+<display-name>luka_aus</display-name> 
 </channel> 
 <channel id="rerolldota.us"> 
 <display-name>rerolldota</display-name> 
 </channel> 
-<channel id="raided.us"> 
-<display-name>raided</display-name> 
-</channel> 
 <channel id="moosebrother.us"> 
 <display-name>moosebrother</display-name> 
+</channel> 
+<channel id="raided.us"> 
+<display-name>raided</display-name> 
 </channel> 
 <channel id="mekabear.us"> 
 <display-name>mekabear</display-name> 
@@ -39,6 +39,9 @@
 </channel> 
 <channel id="wtfmoses.us"> 
 <display-name>wtfmoses</display-name> 
+</channel> 
+<channel id="defac3d.us"> 
+<display-name>defac3d</display-name> 
 </channel> 
 <channel id="bucketst.us"> 
 <display-name>bucketst</display-name> 
@@ -67,7 +70,7 @@
 <channel id="LittleBabyBum.us"> 
 <display-name>LittleBabyBum</display-name> 
 </channel> 
-<programme start="20230528000000 +0000" stop="20230531041300 +0000" channel="clearepg.us"> 
+<programme start="20230528000000 +0000" stop="20230531042100 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
 </programme> 
@@ -75,31 +78,25 @@
 <title lang="en"> Night Stream Roleplay God </title> 
 <desc lang="en"> Started: 11:06PM 
 Playing: Grand Theft Auto V 
-Viewers: 4613 </desc> 
-</programme> 
-<programme start="20230528091224 +0000" stop="20230531041224 +0000" channel="luka_aus.us"> 
-<title lang="en"> ANZSubFest Day 9 Final Hours Nopixel - Snr Deputy Kozlov - SUBFEST @luka_aus @lt_raven </title> 
-<desc lang="en"> Started: 4:12AM 
-Playing: Grand Theft Auto V 
-Viewers: 1 </desc> 
+Viewers: 4593 </desc> 
 </programme> 
 <programme start="20230528060631 +0000" stop="20230531010631 +0000" channel="tinyspark.us"> 
 <title lang="en"> 318 Daisy Dukakis - NoPixel - wraith </title> 
 <desc lang="en"> Started: 1:06AM 
 Playing: Grand Theft Auto V 
-Viewers: 286 </desc> 
+Viewers: 276 </desc> 
+</programme> 
+<programme start="20230528091224 +0000" stop="20230531041224 +0000" channel="luka_aus.us"> 
+<title lang="en"> ANZSubFest Day 9 Final Hours Nopixel - Snr Deputy Kozlov - SUBFEST @luka_aus @lt_raven </title> 
+<desc lang="en"> Started: 4:12AM 
+Playing: Grand Theft Auto V 
+Viewers: 3 </desc> 
 </programme> 
 <programme start="20230528082817 +0000" stop="20230531032817 +0000" channel="rerolldota.us"> 
 <title lang="en"> Subathon Day 4 - 469 Lea Nova - Last Day Of Lea Nova PD </title> 
 <desc lang="en"> Started: 3:28AM 
 Playing: Grand Theft Auto V 
-Viewers: 100 </desc> 
-</programme> 
-<programme start="20230528062526 +0000" stop="20230531012526 +0000" channel="raided.us"> 
-<title lang="en"> Car Tuning Time - NoPixel Development </title> 
-<desc lang="en"> Started: 1:25AM 
-Playing: Grand Theft Auto V 
-Viewers: 447 </desc> 
+Viewers: 104 </desc> 
 </programme> 
 <programme start="20230528024720 +0000" stop="20230530214720 +0000" channel="moosebrother.us"> 
 <title lang="en"> NoPixel WL - Bloom - I Found A Copy Of American Sniper warpath </title> 
@@ -107,95 +104,107 @@ Viewers: 447 </desc>
 Playing: Grand Theft Auto V 
 Viewers: 632 </desc> 
 </programme> 
+<programme start="20230528062526 +0000" stop="20230531012526 +0000" channel="raided.us"> 
+<title lang="en"> Car Tuning Time - NoPixel Development </title> 
+<desc lang="en"> Started: 1:25AM 
+Playing: Grand Theft Auto V 
+Viewers: 461 </desc> 
+</programme> 
 <programme start="20230527205535 +0000" stop="20230530155535 +0000" channel="mekabear.us"> 
 <title lang="en"> G♡LDiE -- IGNITE RP 1985 </title> 
 <desc lang="en"> Started: 3:55PM 
 Playing: Grand Theft Auto V 
-Viewers: 889 </desc> 
+Viewers: 847 </desc> 
 </programme> 
 <programme start="20230528070137 +0000" stop="20230531020137 +0000" channel="kingjayclouted.us"> 
 <title lang="en"> YBN LS Police- Best Fivem Graphics Mod - Fivem Script Tutorial - graphics pc discord - </title> 
 <desc lang="en"> Started: 2:01AM 
 Playing: Grand Theft Auto V 
-Viewers: 22 </desc> 
+Viewers: 19 </desc> 
 </programme> 
 <programme start="20230528085713 +0000" stop="20230531035713 +0000" channel="hotted89.us"> 
 <title lang="en"> Matthew Espinoz, LSPD - Nopixel 3.0 WL - pc discord twitter </title> 
 <desc lang="en"> Started: 3:57AM 
 Playing: Grand Theft Auto V 
-Viewers: 35 </desc> 
+Viewers: 56 </desc> 
 </programme> 
 <programme start="20230528064536 +0000" stop="20230531014536 +0000" channel="jjfried.us"> 
 <title lang="en"> SHORT STREAM ace - Hydra - nopixel WL discord @jjfried </title> 
 <desc lang="en"> Started: 1:45AM 
 Playing: Grand Theft Auto V 
-Viewers: 87 </desc> 
+Viewers: 95 </desc> 
 </programme> 
 <programme start="20230528061236 +0000" stop="20230531011236 +0000" channel="arnie.us"> 
 <title lang="en"> npwl-hydragang-arniedog </title> 
 <desc lang="en"> Started: 1:12AM 
 Playing: Grand Theft Auto V 
-Viewers: 452 </desc> 
+Viewers: 481 </desc> 
 </programme> 
 <programme start="20230528084837 +0000" stop="20230531034837 +0000" channel="tobii.us"> 
 <title lang="en"> Michael Simone - NoPixel Dev - socials discord merch </title> 
 <desc lang="en"> Started: 3:48AM 
 Playing: Grand Theft Auto V 
-Viewers: 548 </desc> 
+Viewers: 646 </desc> 
 </programme> 
 <programme start="20230527200939 +0000" stop="20230530150939 +0000" channel="wtfmoses.us"> 
 <title lang="en"> AG Salvatore Greco - IgniteRP </title> 
 <desc lang="en"> Started: 3:09PM 
 Playing: Grand Theft Auto V 
-Viewers: 75 </desc> 
+Viewers: 65 </desc> 
+</programme> 
+<programme start="20230528092011 +0000" stop="20230531042011 +0000" channel="defac3d.us"> 
+<title lang="en"> ⚪️ DENZEL ⚪️ MDMA ⚪️ NOPIXEL WL ⚪️ EXPRESSVPN CYBER KICK </title> 
+<desc lang="en"> Started: 4:20AM 
+Playing: Grand Theft Auto V 
+Viewers: 20 </desc> 
 </programme> 
 <programme start="20230528025147 +0000" stop="20230530215147 +0000" channel="bucketst.us"> 
 <title lang="en"> Gheto Kaiba - BBMC-Redline - NoPixel WL shorts </title> 
 <desc lang="en"> Started: 9:51PM 
 Playing: Grand Theft Auto V 
-Viewers: 344 </desc> 
+Viewers: 345 </desc> 
 </programme> 
 <programme start="20230528044825 +0000" stop="20230530234825 +0000" channel="lysium.us"> 
 <title lang="en"> SUBATHON - BITS ARE DOUBLE TYME - TTS ON - HelloFresh 4K merch </title> 
 <desc lang="en"> Started: 11:48PM 
 Playing: Grand Theft Auto V 
-Viewers: 1460 </desc> 
+Viewers: 1485 </desc> 
 </programme> 
 <programme start="20230528065110 +0000" stop="20230531015110 +0000" channel="chandraviperdae.us"> 
 <title lang="en"> SUBFEST FINAL DAY Mari McKay-Black - SUBFEST - OILERS WYA </title> 
 <desc lang="en"> Started: 1:51AM 
 Playing: Grand Theft Auto V 
-Viewers: 45 </desc> 
+Viewers: 39 </desc> 
 </programme> 
 <programme start="20230528043358 +0000" stop="20230530233358 +0000" channel="heyimzed.us"> 
 <title lang="en"> Subfest FINAL DAY - BBMC 🔫 NoPixel WL - yt </title> 
 <desc lang="en"> Started: 11:33PM 
 Playing: Grand Theft Auto V 
-Viewers: 569 </desc> 
+Viewers: 571 </desc> 
 </programme> 
 <programme start="20230527210014 +0000" stop="20230530160014 +0000" channel="knotty.us"> 
 <title lang="en"> UNCAPPED NOW Guy Jones... I socials discord Roll </title> 
 <desc lang="en"> Started: 4:00PM 
 Playing: Grand Theft Auto V 
-Viewers: 260 </desc> 
+Viewers: 259 </desc> 
 </programme> 
 <programme start="20230528062413 +0000" stop="20230531012413 +0000" channel="liluzeevert.us"> 
 <title lang="en"> War Antics and Chill - Johnny Adams - Mayhem MC - NoPixel WL </title> 
 <desc lang="en"> Started: 1:24AM 
 Playing: Grand Theft Auto V 
-Viewers: 7 </desc> 
+Viewers: 8 </desc> 
 </programme> 
 <programme start="20230528030202 +0000" stop="20230530220202 +0000" channel="royalcreates.us"> 
 <title lang="en"> Aphrodite Theos - EMS Gang Gang - NoPixel WL </title> 
 <desc lang="en"> Started: 10:02PM 
 Playing: Grand Theft Auto V 
-Viewers: 182 </desc> 
+Viewers: 170 </desc> 
 </programme> 
-<programme start="20230528000000 +0000" stop="20230531041325 +0000" channel="WashingtonPost.us"> 
+<programme start="20230528000000 +0000" stop="20230531042128 +0000" channel="WashingtonPost.us"> 
 <title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title> 
 <desc lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </desc> 
 </programme> 
-<programme start="20230528000000 +0000" stop="20230531041325 +0000" channel="LittleBabyBum.us"> 
+<programme start="20230528000000 +0000" stop="20230531042128 +0000" channel="LittleBabyBum.us"> 
 <title lang="en"> 🔴 Learn ABC - Kids TV - LITTLE BABY BUM LIVE 🔴 Nursery Rhymes for babies: Wheels on the Bus and more⭐ </title> 
 <desc lang="en"> 🔴 Learn ABC - Kids TV - LITTLE BABY BUM LIVE 🔴 Nursery Rhymes for babies: Wheels on the Bus and more⭐ </desc> 
 </programme> 
