@@ -1,11 +1,11 @@
 <channel id="clearepg.us"> 
 <display-name>clearepg</display-name> 
 </channel> 
-<channel id="anthonyz.us"> 
-<display-name>anthonyz</display-name> 
-</channel> 
 <channel id="Ssaab.us"> 
 <display-name>Ssaab</display-name> 
+</channel> 
+<channel id="anthonyz.us"> 
+<display-name>anthonyz</display-name> 
 </channel> 
 <channel id="remdogg.us"> 
 <display-name>remdogg</display-name> 
@@ -19,17 +19,20 @@
 <channel id="sharaadrick.us"> 
 <display-name>sharaadrick</display-name> 
 </channel> 
-<channel id="mattrp.us"> 
-<display-name>mattrp</display-name> 
-</channel> 
 <channel id="minervamaat.us"> 
 <display-name>minervamaat</display-name> 
+</channel> 
+<channel id="mattrp.us"> 
+<display-name>mattrp</display-name> 
 </channel> 
 <channel id="cathie.us"> 
 <display-name>cathie</display-name> 
 </channel> 
 <channel id="vindichee.us"> 
 <display-name>vindichee</display-name> 
+</channel> 
+<channel id="africansnowball.us"> 
+<display-name>africansnowball</display-name> 
 </channel> 
 <channel id="malcolmglass.us"> 
 <display-name>malcolmglass</display-name> 
@@ -100,9 +103,6 @@
 <channel id="whippy.us"> 
 <display-name>whippy</display-name> 
 </channel> 
-<channel id="jayaitch.us"> 
-<display-name>jayaitch</display-name> 
-</channel> 
 <channel id="sl1mew.us"> 
 <display-name>sl1mew</display-name> 
 </channel> 
@@ -145,11 +145,11 @@
 <channel id="fuslie.us"> 
 <display-name>fuslie</display-name> 
 </channel> 
-<channel id="LittleBabyBum.us"> 
-<display-name>LittleBabyBum</display-name> 
-</channel> 
 <channel id="msrachel.us"> 
 <display-name>msrachel</display-name> 
+</channel> 
+<channel id="LittleBabyBum.us"> 
+<display-name>LittleBabyBum</display-name> 
 </channel> 
 <channel id="ReedTimmerWx.us"> 
 <display-name>ReedTimmerWx</display-name> 
@@ -163,21 +163,21 @@
 <channel id="Amouranth_kick.us"> 
 <display-name>Amouranth_kick</display-name> 
 </channel> 
-<programme start="20230701000000 +0000" stop="20230704165100 +0000" channel="clearepg.us"> 
+<programme start="20230701000000 +0000" stop="20230704165800 +0000" channel="clearepg.us"> 
 <title lang="en"> clearepg </title> 
 <desc lang="en"> Facebook - clearepg </desc> 
-</programme> 
-<programme start="20230701193055 +0000" stop="20230704143055 +0000" channel="anthonyz.us"> 
-<title lang="en"> Rengoku 🛑SPONSORED TYPE BEAT🛑 PLAYING WITH REDLINE 🛑 🎉MERCH REDLINE SUMMER🎉 LIVE MON-FRI #ad </title> 
-<desc lang="en"> Started: 2:30PM 
-Playing: Tom Clancy's Rainbow Six Siege 
-Viewers: 1698 </desc> 
 </programme> 
 <programme start="20230701210446 +0000" stop="20230704160446 +0000" channel="Ssaab.us"> 
 <title lang="en"> Commissioner Sam Baas - Troopers - Nopixel 3.0 - Factor socials @ssaab </title> 
 <desc lang="en"> Started: 4:04PM 
 Playing: Grand Theft Auto V 
 Viewers: 1060 </desc> 
+</programme> 
+<programme start="20230701193055 +0000" stop="20230704143055 +0000" channel="anthonyz.us"> 
+<title lang="en"> Rengoku 🛑SPONSORED TYPE BEAT🛑 PLAYING WITH REDLINE 🛑 🎉MERCH REDLINE SUMMER🎉 LIVE MON-FRI #ad </title> 
+<desc lang="en"> Started: 2:30PM 
+Playing: Tom Clancy's Rainbow Six Siege 
+Viewers: 1698 </desc> 
 </programme> 
 <programme start="20230701160043 +0000" stop="20230704110043 +0000" channel="remdogg.us"> 
 <title lang="en"> DAY 3 🎉BIRTHDAY🎉 UNCAPPED SUBATHON l NoPixel WL l Trooper Suarez l 1,862 Days Consecutively Streaming l Proof PD HelloFresh #ad </title> 
@@ -203,17 +203,17 @@ Viewers: 0 </desc>
 Playing: Grand Theft Auto V 
 Viewers: 30 </desc> 
 </programme> 
-<programme start="20230701120200 +0000" stop="20230704070200 +0000" channel="mattrp.us"> 
-<title lang="en"> Trooper Ripley - Top Dog - NoPixel WL 3.0 </title> 
-<desc lang="en"> Started: 7:02AM 
-Playing: Grand Theft Auto V 
-Viewers: 327 </desc> 
-</programme> 
 <programme start="20230701134642 +0000" stop="20230704084642 +0000" channel="minervamaat.us"> 
 <title lang="en"> Snr. Officer Minerva Maat - LSPD - NP WL - discord </title> 
 <desc lang="en"> Started: 8:46AM 
 Playing: Grand Theft Auto V 
 Viewers: 33 </desc> 
+</programme> 
+<programme start="20230701120200 +0000" stop="20230704070200 +0000" channel="mattrp.us"> 
+<title lang="en"> Trooper Ripley - Top Dog - NoPixel WL 3.0 </title> 
+<desc lang="en"> Started: 7:02AM 
+Playing: Grand Theft Auto V 
+Viewers: 327 </desc> 
 </programme> 
 <programme start="20230701180152 +0000" stop="20230704130152 +0000" channel="cathie.us"> 
 <title lang="en"> Anita May - PBSO - NoPixel WL [Vtuber] - socials gamersupps </title> 
@@ -226,6 +226,12 @@ Viewers: 62 </desc>
 <desc lang="en"> Started: 11:01AM 
 Playing: Grand Theft Auto V 
 Viewers: 111 </desc> 
+</programme> 
+<programme start="20230701215159 +0000" stop="20230704165159 +0000" channel="africansnowball.us"> 
+<title lang="en"> Sr Officer Carter - High Value Target Unit - NoPixel WL - twitter </title> 
+<desc lang="en"> Started: 4:51PM 
+Playing: Grand Theft Auto V 
+Viewers: 0 </desc> 
 </programme> 
 <programme start="20230701154139 +0000" stop="20230704104139 +0000" channel="malcolmglass.us"> 
 <title lang="en"> Nekoda - LSPD - NoPixel WL </title> 
@@ -336,7 +342,7 @@ Playing: Grand Theft Auto V
 Viewers: 100 </desc> 
 </programme> 
 <programme start="20230701170316 +0000" stop="20230704120316 +0000" channel="matteu.us"> 
-<title lang="en"> 💠 MATTHEW ANTOV💠 MDM 💠 VENDETTA 💠 discord socials 💠 </title> 
+<title lang="en"> 💠 MATTHEW ANTOV💠 MDM 💠 VENDETTA 💠 NOPIXEL WL 💠 discord socials 💠 </title> 
 <desc lang="en"> Started: 12:03PM 
 Playing: Grand Theft Auto V 
 Viewers: 730 </desc> 
@@ -365,17 +371,11 @@ Viewers: 73 </desc>
 Playing: Grand Theft Auto V 
 Viewers: 269 </desc> 
 </programme> 
-<programme start="20230701182635 +0000" stop="20230704132635 +0000" channel="jayaitch.us"> 
-<title lang="en"> PATCHED MEMBER - LIL HITMAN CAP - BBMC NP WL </title> 
-<desc lang="en"> Started: 1:26PM 
-Playing: Grand Theft Auto V 
-Viewers: 210 </desc> 
-</programme> 
 <programme start="20230701213930 +0000" stop="20230704163930 +0000" channel="sl1mew.us"> 
 <title lang="en"> WE BACK - tictac chilltac - BBMC Hangaround - Nopixel WL - (discord - commands) - @sl1meW </title> 
 <desc lang="en"> Started: 4:39PM 
 Playing: Grand Theft Auto V 
-Viewers: 93 </desc> 
+Viewers: 34 </desc> 
 </programme> 
 <programme start="20230701183044 +0000" stop="20230704133044 +0000" channel="deputydangerdan.us"> 
 <title lang="en"> Uncle Brick - GSF Shotcaller - NoPixel WL </title> 
@@ -437,45 +437,45 @@ Viewers: 2970 </desc>
 Playing: Sea of Thieves 
 Viewers: 15493 </desc> 
 </programme> 
-<programme start="20230701000000 +0000" stop="20230704165126 +0000" channel="Myth.us"> 
+<programme start="20230701000000 +0000" stop="20230704165826 +0000" channel="Myth.us"> 
 <title lang="en"> 🔴 LIVE - BATTLEBIT AND BOYS GETTIN ROWWWDY AYEEEEEE </title> 
 <desc lang="en"> 🔴 LIVE - BATTLEBIT AND BOYS GETTIN ROWWWDY AYEEEEEE </desc> 
 </programme> 
-<programme start="20230701000000 +0000" stop="20230704165126 +0000" channel="WashingtonPost.us"> 
+<programme start="20230701000000 +0000" stop="20230704165826 +0000" channel="WashingtonPost.us"> 
 <title lang="en"> WATCH LIVE NOW: The latest news, politics and newsmaker interviews streaming live. </title> 
 <desc lang="en"> WATCH LIVE NOW: The latest news, politics and newsmaker interviews streaming live. </desc> 
 </programme> 
-<programme start="20230701000000 +0000" stop="20230704165126 +0000" channel="fuslie.us"> 
+<programme start="20230701000000 +0000" stop="20230704165826 +0000" channel="fuslie.us"> 
 <title lang="en"> STREAMER CAMP TOP 64 VIDEO ROUND DAY 1 with QTCinderella, kkatamina, boxbox </title> 
 <desc lang="en"> STREAMER CAMP TOP 64 VIDEO ROUND DAY 1 with QTCinderella, kkatamina, boxbox </desc> 
 </programme> 
-<programme start="20230701000000 +0000" stop="20230704165126 +0000" channel="LittleBabyBum.us"> 
-<title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, 6 Little Ducks More </title> 
-<desc lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, 6 Little Ducks More </desc> 
-</programme> 
-<programme start="20230701000000 +0000" stop="20230704165126 +0000" channel="msrachel.us"> 
+<programme start="20230701000000 +0000" stop="20230704165826 +0000" channel="msrachel.us"> 
 <title lang="en"> 🔴  Kids Songs and Nursery Rhymes - Wheels on the Bus  More and Toddler Learning Video with Ms Rachel </title> 
 <desc lang="en"> 🔴  Kids Songs and Nursery Rhymes - Wheels on the Bus  More and Toddler Learning Video with Ms Rachel </desc> 
 </programme> 
-<programme start="20230701000000 +0000" stop="20230704165126 +0000" channel="ReedTimmerWx.us"> 
+<programme start="20230701000000 +0000" stop="20230704165826 +0000" channel="LittleBabyBum.us"> 
+<title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, 6 Little Ducks More </title> 
+<desc lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, 6 Little Ducks More </desc> 
+</programme> 
+<programme start="20230701000000 +0000" stop="20230704165826 +0000" channel="ReedTimmerWx.us"> 
 <title lang="en"> LIVE storm chase monster supercell east of Cheyenne, Wyoming </title> 
 <desc lang="en"> LIVE storm chase monster supercell east of Cheyenne, Wyoming </desc> 
 </programme> 
-<programme start="20230701000000 +0000" stop="20230704164800 +0000" channel="jackwooo_kick.us"> 
+<programme start="20230701000000 +0000" stop="20230704165500 +0000" channel="jackwooo_kick.us"> 
 <title lang="en"> react  RECORDING </title> 
 <desc lang="en"> Started: 3:18PM 
 Playing: Games  Demos 
-Viewers: 219 </desc> 
+Viewers: 237 </desc> 
 </programme> 
-<programme start="20230701000000 +0000" stop="20230704164800 +0000" channel="thasteeztrap_kick.us"> 
+<programme start="20230701000000 +0000" stop="20230704165501 +0000" channel="thasteeztrap_kick.us"> 
 <title lang="en"> NoPixel WL 3.0 -- Roberto Steez Breeze -- POST DEATH RACE LIFE </title> 
 <desc lang="en"> Started: 6:48AM 
 Playing: GTA RP 
-Viewers: 28 </desc> 
+Viewers: 30 </desc> 
 </programme> 
-<programme start="20230701000000 +0000" stop="20230704164801 +0000" channel="Amouranth_kick.us"> 
+<programme start="20230701000000 +0000" stop="20230704165501 +0000" channel="Amouranth_kick.us"> 
 <title lang="en"> BIKINI STREAM 🍑 s -- social links </title> 
 <desc lang="en"> Started: 4:34PM 
 Playing: Pools, Hot Tubs and Bikinis 
-Viewers: 1736 </desc> 
+Viewers: 1989 </desc> 
 </programme> 
